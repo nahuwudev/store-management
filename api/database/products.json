@@ -1,0 +1,1601 @@
+[
+  {
+    "id": 1,
+    "sku": 7838356918501376,
+    "name": "Elegant Cotton Car",
+    "price": 108.65,
+    "stock": 1,
+    "category": "Industrial",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": false,
+      "discount": 0
+    },
+    "createdAt": "2023-08-15T18:17:50.885Z",
+    "updatedAt": "2024-02-25T11:25:01.333Z"
+  },
+  {
+    "id": 2,
+    "sku": 4099377383604224,
+    "name": "Intelligent Granite Computer",
+    "price": 32.45,
+    "stock": 63,
+    "category": "Computers",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-08-06T08:39:02.493Z",
+    "updatedAt": "2024-02-25T10:25:44.093Z"
+  },
+  {
+    "id": 3,
+    "sku": 2330466552119296,
+    "name": "Modern Soft Soap",
+    "price": 157.14,
+    "stock": 53,
+    "category": "Industrial",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-11-23T10:54:58.400Z",
+    "updatedAt": "2024-02-25T18:00:32.283Z"
+  },
+  {
+    "id": 4,
+    "sku": 6657862178701312,
+    "name": "Rustic Rubber Bike",
+    "price": 142.47,
+    "stock": 64,
+    "category": "Movies",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 54,
+      "discountedPrice": 65.5362
+    },
+    "createdAt": "2023-09-26T15:23:15.212Z",
+    "updatedAt": "2024-02-26T00:55:01.043Z"
+  },
+  {
+    "id": 5,
+    "sku": 5724094383259648,
+    "name": "Electronic Fresh Ball",
+    "price": 36.93,
+    "stock": 63,
+    "category": "Movies",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 57,
+      "discountedPrice": 15.879900000000003
+    },
+    "createdAt": "2023-07-21T23:43:37.367Z",
+    "updatedAt": "2024-02-25T05:51:38.504Z"
+  },
+  {
+    "id": 6,
+    "sku": 7291017965338624,
+    "name": "Ergonomic Plastic Fish",
+    "price": 161.32,
+    "stock": 85,
+    "category": "Industrial",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 54,
+      "discountedPrice": 74.2072
+    },
+    "createdAt": "2023-12-16T06:13:00.552Z",
+    "updatedAt": "2024-02-25T09:10:39.391Z"
+  },
+  {
+    "id": 7,
+    "sku": 1485783751983104,
+    "name": "Ergonomic Soft Keyboard",
+    "price": 53.92,
+    "stock": 93,
+    "category": "Home",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-09-16T08:28:06.824Z",
+    "updatedAt": "2024-02-25T03:58:16.650Z"
+  },
+  {
+    "id": 8,
+    "sku": 579392581402624,
+    "name": "Ergonomic Steel Computer",
+    "price": 174.41,
+    "stock": 59,
+    "category": "Clothing",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 50,
+      "discountedPrice": 87.205
+    },
+    "createdAt": "2023-12-27T20:36:53.555Z",
+    "updatedAt": "2024-02-26T03:40:55.905Z"
+  },
+  {
+    "id": 9,
+    "sku": 3311497795076096,
+    "name": "Intelligent Plastic Gloves",
+    "price": 54.67,
+    "stock": 38,
+    "category": "Outdoors",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 58,
+      "discountedPrice": 22.9614
+    },
+    "createdAt": "2024-02-25T17:10:23.098Z",
+    "updatedAt": "2024-02-25T22:48:45.896Z"
+  },
+  {
+    "id": 10,
+    "sku": 7157431178100736,
+    "name": "Sleek Cotton Tuna",
+    "price": 152.74,
+    "stock": 52,
+    "category": "Industrial",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 13,
+      "discountedPrice": 132.8838
+    },
+    "createdAt": "2023-11-30T10:57:05.020Z",
+    "updatedAt": "2024-02-26T00:14:31.972Z"
+  },
+  {
+    "id": 11,
+    "sku": 1028426454532096,
+    "name": "Fantastic Granite Sausages",
+    "price": 167.63,
+    "stock": 10,
+    "category": "Computers",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 53,
+      "discountedPrice": 78.7861
+    },
+    "createdAt": "2023-08-27T13:24:21.136Z",
+    "updatedAt": "2024-02-25T22:00:34.461Z"
+  },
+  {
+    "id": 12,
+    "sku": 413168985702400,
+    "name": "Electronic Concrete Pizza",
+    "price": 162.87,
+    "stock": 34,
+    "category": "Computers",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2024-01-25T19:08:47.644Z",
+    "updatedAt": "2024-02-26T03:51:41.277Z"
+  },
+  {
+    "id": 13,
+    "sku": 1894801676959744,
+    "name": "Practical Bronze Tuna",
+    "price": 102.79,
+    "stock": 69,
+    "category": "Electronics",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 58,
+      "discountedPrice": 43.1718
+    },
+    "createdAt": "2023-07-20T15:32:37.551Z",
+    "updatedAt": "2024-02-25T13:12:27.076Z"
+  },
+  {
+    "id": 14,
+    "sku": 6750846672961536,
+    "name": "Recycled Concrete Mouse",
+    "price": 146.93,
+    "stock": 23,
+    "category": "Books",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-07-19T01:09:38.844Z",
+    "updatedAt": "2024-02-25T12:34:06.354Z"
+  },
+  {
+    "id": 15,
+    "sku": 6044053953052672,
+    "name": "Tasty Rubber Salad",
+    "price": 135.07,
+    "stock": 25,
+    "category": "Beauty",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-03-05T11:33:12.530Z",
+    "updatedAt": "2024-02-25T17:26:34.299Z"
+  },
+  {
+    "id": 16,
+    "sku": 8645183293882368,
+    "name": "Ergonomic Cotton Table",
+    "price": 90.15,
+    "stock": 98,
+    "category": "Clothing",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 57,
+      "discountedPrice": 38.764500000000005
+    },
+    "createdAt": "2023-06-14T14:56:55.938Z",
+    "updatedAt": "2024-02-25T10:29:35.859Z"
+  },
+  {
+    "id": 17,
+    "sku": 5646160461037568,
+    "name": "Refined Frozen Towels",
+    "price": 161.95,
+    "stock": 33,
+    "category": "Movies",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 22,
+      "discountedPrice": 126.321
+    },
+    "createdAt": "2023-08-04T13:03:03.610Z",
+    "updatedAt": "2024-02-25T14:14:42.211Z"
+  },
+  {
+    "id": 18,
+    "sku": 4538653453844480,
+    "name": "Handmade Granite Sausages",
+    "price": 29.81,
+    "stock": 60,
+    "category": "Kids",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-16T07:26:47.705Z",
+    "updatedAt": "2024-02-25T16:00:44.190Z"
+  },
+  {
+    "id": 19,
+    "sku": 275747268722688,
+    "name": "Modern Soft Table",
+    "price": 114.51,
+    "stock": 70,
+    "category": "Automotive",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 62,
+      "discountedPrice": 43.5138
+    },
+    "createdAt": "2023-06-24T11:41:27.575Z",
+    "updatedAt": "2024-02-25T16:12:53.118Z"
+  },
+  {
+    "id": 20,
+    "sku": 5406282513121280,
+    "name": "Rustic Metal Bacon",
+    "price": 148.93,
+    "stock": 4,
+    "category": "Tools",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-07-04T14:56:06.809Z",
+    "updatedAt": "2024-02-26T01:18:32.161Z"
+  },
+  {
+    "id": 21,
+    "sku": 5955017399861248,
+    "name": "Refined Wooden Ball",
+    "price": 70.62,
+    "stock": 33,
+    "category": "Clothing",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": true,
+      "discount": 46,
+      "discountedPrice": 38.1348
+    },
+    "createdAt": "2023-03-18T22:23:14.680Z",
+    "updatedAt": "2024-02-25T16:48:20.724Z"
+  },
+  {
+    "id": 22,
+    "sku": 4498850387591168,
+    "name": "Luxurious Steel Cheese",
+    "price": 74.71,
+    "stock": 68,
+    "category": "Home",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-02-27T03:39:08.586Z",
+    "updatedAt": "2024-02-25T18:15:43.309Z"
+  },
+  {
+    "id": 23,
+    "sku": 5469221135843328,
+    "name": "Generic Rubber Tuna",
+    "price": 83.96,
+    "stock": 43,
+    "category": "Computers",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 42,
+      "discountedPrice": 48.696799999999996
+    },
+    "createdAt": "2023-04-23T20:05:38.954Z",
+    "updatedAt": "2024-02-25T13:29:53.623Z"
+  },
+  {
+    "id": 24,
+    "sku": 3953790770216960,
+    "name": "Unbranded Granite Ball",
+    "price": 124.82,
+    "stock": 86,
+    "category": "Baby",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-04-08T16:31:52.120Z",
+    "updatedAt": "2024-02-26T03:42:37.015Z"
+  },
+  {
+    "id": 25,
+    "sku": 2181128117026816,
+    "name": "Intelligent Steel Chair",
+    "price": 71.9,
+    "stock": 68,
+    "category": "Games",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-03-23T18:28:10.953Z",
+    "updatedAt": "2024-02-26T03:16:58.052Z"
+  },
+  {
+    "id": 26,
+    "sku": 2302962267324416,
+    "name": "Fantastic Rubber Sausages",
+    "price": 81.61,
+    "stock": 52,
+    "category": "Kids",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 68,
+      "discountedPrice": 26.1152
+    },
+    "createdAt": "2023-05-18T01:12:24.580Z",
+    "updatedAt": "2024-02-26T01:56:36.707Z"
+  },
+  {
+    "id": 27,
+    "sku": 2652287931514880,
+    "name": "Practical Granite Towels",
+    "price": 61.77,
+    "stock": 74,
+    "category": "Beauty",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-06-29T15:53:49.366Z",
+    "updatedAt": "2024-02-25T21:18:24.574Z"
+  },
+  {
+    "id": 28,
+    "sku": 8566561319157760,
+    "name": "Unbranded Concrete Chips",
+    "price": 126.27,
+    "stock": 69,
+    "category": "Baby",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": true,
+      "discount": 60,
+      "discountedPrice": 50.507999999999996
+    },
+    "createdAt": "2023-03-20T18:31:52.927Z",
+    "updatedAt": "2024-02-25T09:23:37.966Z"
+  },
+  {
+    "id": 29,
+    "sku": 3574622291230720,
+    "name": "Gorgeous Plastic Shoes",
+    "price": 149.21,
+    "stock": 15,
+    "category": "Sports",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-04T09:24:08.994Z",
+    "updatedAt": "2024-02-25T17:19:52.695Z"
+  },
+  {
+    "id": 30,
+    "sku": 1546389100167168,
+    "name": "Modern Bronze Towels",
+    "price": 42.96,
+    "stock": 78,
+    "category": "Industrial",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 41,
+      "discountedPrice": 25.3464
+    },
+    "createdAt": "2023-10-06T03:02:05.548Z",
+    "updatedAt": "2024-02-25T18:41:37.669Z"
+  },
+  {
+    "id": 31,
+    "sku": 5440920566628352,
+    "name": "Bespoke Metal Mouse",
+    "price": 159.97,
+    "stock": 61,
+    "category": "Jewelery",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-28T21:30:02.315Z",
+    "updatedAt": "2024-02-25T07:27:19.251Z"
+  },
+  {
+    "id": 32,
+    "sku": 4372340406222848,
+    "name": "Bespoke Rubber Soap",
+    "price": 143.64,
+    "stock": 97,
+    "category": "Sports",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": true,
+      "discount": 46,
+      "discountedPrice": 77.56559999999999
+    },
+    "createdAt": "2023-11-30T10:04:05.203Z",
+    "updatedAt": "2024-02-25T06:06:03.816Z"
+  },
+  {
+    "id": 33,
+    "sku": 4152965782831104,
+    "name": "Practical Frozen Pizza",
+    "price": 25.78,
+    "stock": 94,
+    "category": "Health",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": true,
+      "discount": 68,
+      "discountedPrice": 8.249600000000001
+    },
+    "createdAt": "2023-09-04T17:10:25.552Z",
+    "updatedAt": "2024-02-25T15:34:38.166Z"
+  },
+  {
+    "id": 34,
+    "sku": 1706289591746560,
+    "name": "Elegant Granite Tuna",
+    "price": 69.46,
+    "stock": 25,
+    "category": "Clothing",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 31,
+      "discountedPrice": 47.92739999999999
+    },
+    "createdAt": "2023-05-04T02:07:01.412Z",
+    "updatedAt": "2024-02-25T16:38:58.560Z"
+  },
+  {
+    "id": 35,
+    "sku": 5135186142429184,
+    "name": "Modern Plastic Sausages",
+    "price": 61.98,
+    "stock": 33,
+    "category": "Garden",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-04-25T21:54:48.134Z",
+    "updatedAt": "2024-02-26T02:51:02.145Z"
+  },
+  {
+    "id": 36,
+    "sku": 4487866080034816,
+    "name": "Incredible Soft Chips",
+    "price": 87.3,
+    "stock": 85,
+    "category": "Automotive",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 63,
+      "discountedPrice": 32.301
+    },
+    "createdAt": "2023-07-22T03:36:05.203Z",
+    "updatedAt": "2024-02-25T08:33:39.527Z"
+  },
+  {
+    "id": 37,
+    "sku": 325417244295168,
+    "name": "Rustic Frozen Keyboard",
+    "price": 44.92,
+    "stock": 28,
+    "category": "Tools",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-04T17:19:46.591Z",
+    "updatedAt": "2024-02-25T13:40:06.558Z"
+  },
+  {
+    "id": 38,
+    "sku": 5275094364454912,
+    "name": "Oriental Plastic Keyboard",
+    "price": 145.42,
+    "stock": 35,
+    "category": "Electronics",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-07-14T08:51:03.953Z",
+    "updatedAt": "2024-02-25T14:07:34.858Z"
+  },
+  {
+    "id": 39,
+    "sku": 6169152788103168,
+    "name": "Rustic Plastic Chicken",
+    "price": 90.49,
+    "stock": 45,
+    "category": "Computers",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-17T07:10:48.794Z",
+    "updatedAt": "2024-02-25T11:52:04.018Z"
+  },
+  {
+    "id": 40,
+    "sku": 1106435878420480,
+    "name": "Gorgeous Soft Pizza",
+    "price": 71.37,
+    "stock": 71,
+    "category": "Computers",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-07-20T06:58:52.803Z",
+    "updatedAt": "2024-02-25T11:50:51.226Z"
+  },
+  {
+    "id": 41,
+    "sku": 1185281996750848,
+    "name": "Ergonomic Cotton Computer",
+    "price": 24.73,
+    "stock": 21,
+    "category": "Automotive",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-12-11T20:28:30.384Z",
+    "updatedAt": "2024-02-25T20:22:33.909Z"
+  },
+  {
+    "id": 42,
+    "sku": 6721732194861056,
+    "name": "Handmade Plastic Soap",
+    "price": 164.77,
+    "stock": 52,
+    "category": "Games",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-04-28T08:07:07.133Z",
+    "updatedAt": "2024-02-25T17:26:56.057Z"
+  },
+  {
+    "id": 43,
+    "sku": 3545538502852608,
+    "name": "Intelligent Concrete Keyboard",
+    "price": 33.93,
+    "stock": 33,
+    "category": "Baby",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": true,
+      "discount": 11,
+      "discountedPrice": 30.197699999999998
+    },
+    "createdAt": "2023-09-23T13:45:23.842Z",
+    "updatedAt": "2024-02-25T07:08:33.187Z"
+  },
+  {
+    "id": 44,
+    "sku": 8048459726716928,
+    "name": "Rustic Bronze Pizza",
+    "price": 170.67,
+    "stock": 51,
+    "category": "Home",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-05-14T19:40:36.847Z",
+    "updatedAt": "2024-02-26T00:52:37.241Z"
+  },
+  {
+    "id": 45,
+    "sku": 1160061363683328,
+    "name": "Tasty Soft Soap",
+    "price": 77.38,
+    "stock": 3,
+    "category": "Home",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 12,
+      "discountedPrice": 68.0944
+    },
+    "createdAt": "2023-10-08T00:35:30.558Z",
+    "updatedAt": "2024-02-25T12:46:26.430Z"
+  },
+  {
+    "id": 46,
+    "sku": 4735783600652288,
+    "name": "Bespoke Granite Fish",
+    "price": 133.48,
+    "stock": 100,
+    "category": "Clothing",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-06-01T17:11:10.885Z",
+    "updatedAt": "2024-02-25T21:06:48.916Z"
+  },
+  {
+    "id": 47,
+    "sku": 673582917091328,
+    "name": "Rustic Frozen Pizza",
+    "price": 53.15,
+    "stock": 99,
+    "category": "Health",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 66,
+      "discountedPrice": 18.070999999999998
+    },
+    "createdAt": "2023-05-18T23:16:24.047Z",
+    "updatedAt": "2024-02-25T20:53:10.521Z"
+  },
+  {
+    "id": 48,
+    "sku": 8343406323433472,
+    "name": "Ergonomic Steel Car",
+    "price": 79.34,
+    "stock": 64,
+    "category": "Movies",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2024-02-13T11:51:27.259Z",
+    "updatedAt": "2024-02-25T14:04:13.662Z"
+  },
+  {
+    "id": 49,
+    "sku": 4004147858767872,
+    "name": "Luxurious Soft Table",
+    "price": 42.39,
+    "stock": 99,
+    "category": "Books",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-04-23T14:37:44.223Z",
+    "updatedAt": "2024-02-25T22:49:39.891Z"
+  },
+  {
+    "id": 50,
+    "sku": 3849288293548032,
+    "name": "Unbranded Steel Keyboard",
+    "price": 120.2,
+    "stock": 54,
+    "category": "Books",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-12-06T00:47:10.329Z",
+    "updatedAt": "2024-02-25T18:32:30.108Z"
+  },
+  {
+    "id": 51,
+    "sku": 4037474726707200,
+    "name": "Modern Wooden Chips",
+    "price": 121.77,
+    "stock": 19,
+    "category": "Health",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": true,
+      "discount": 64,
+      "discountedPrice": 43.837199999999996
+    },
+    "createdAt": "2023-12-08T18:07:35.811Z",
+    "updatedAt": "2024-02-25T21:50:26.252Z"
+  },
+  {
+    "id": 52,
+    "sku": 421306617036800,
+    "name": "Practical Fresh Pants",
+    "price": 32.31,
+    "stock": 70,
+    "category": "Games",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-12-20T14:28:18.101Z",
+    "updatedAt": "2024-02-26T01:57:22.015Z"
+  },
+  {
+    "id": 53,
+    "sku": 8727001061916672,
+    "name": "Gorgeous Cotton Towels",
+    "price": 169.42,
+    "stock": 27,
+    "category": "Grocery",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 26,
+      "discountedPrice": 125.37079999999999
+    },
+    "createdAt": "2023-09-17T13:37:21.110Z",
+    "updatedAt": "2024-02-25T14:08:29.587Z"
+  },
+  {
+    "id": 54,
+    "sku": 5221811392348160,
+    "name": "Fantastic Steel Table",
+    "price": 93.82,
+    "stock": 54,
+    "category": "Electronics",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-11-01T11:13:19.126Z",
+    "updatedAt": "2024-02-26T00:01:16.221Z"
+  },
+  {
+    "id": 55,
+    "sku": 7062352952295424,
+    "name": "Modern Wooden Hat",
+    "price": 50.22,
+    "stock": 100,
+    "category": "Toys",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-07-03T07:26:03.094Z",
+    "updatedAt": "2024-02-25T16:05:24.174Z"
+  },
+  {
+    "id": 56,
+    "sku": 2137083953020928,
+    "name": "Rustic Bronze Computer",
+    "price": 32.78,
+    "stock": 57,
+    "category": "Shoes",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-06-21T08:18:19.519Z",
+    "updatedAt": "2024-02-26T02:55:25.235Z"
+  },
+  {
+    "id": 57,
+    "sku": 509593270616064,
+    "name": "Practical Granite Car",
+    "price": 40.2,
+    "stock": 52,
+    "category": "Beauty",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": true,
+      "discount": 51,
+      "discountedPrice": 19.698
+    },
+    "createdAt": "2023-04-14T01:13:43.364Z",
+    "updatedAt": "2024-02-25T09:21:51.065Z"
+  },
+  {
+    "id": 58,
+    "sku": 8371015870578688,
+    "name": "Small Rubber Gloves",
+    "price": 30.33,
+    "stock": 48,
+    "category": "Movies",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 36,
+      "discountedPrice": 19.4112
+    },
+    "createdAt": "2023-04-08T17:11:38.834Z",
+    "updatedAt": "2024-02-26T02:28:05.675Z"
+  },
+  {
+    "id": 59,
+    "sku": 4493008118480896,
+    "name": "Sleek Rubber Chicken",
+    "price": 113.72,
+    "stock": 83,
+    "category": "Grocery",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 65,
+      "discountedPrice": 39.80199999999999
+    },
+    "createdAt": "2023-09-01T00:54:53.570Z",
+    "updatedAt": "2024-02-25T06:49:39.716Z"
+  },
+  {
+    "id": 60,
+    "sku": 8862482789564416,
+    "name": "Intelligent Metal Mouse",
+    "price": 173.37,
+    "stock": 47,
+    "category": "Music",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 55,
+      "discountedPrice": 78.01650000000001
+    },
+    "createdAt": "2023-09-28T16:42:41.057Z",
+    "updatedAt": "2024-02-25T13:26:45.844Z"
+  },
+  {
+    "id": 61,
+    "sku": 4078190282670080,
+    "name": "Sleek Wooden Chair",
+    "price": 165.69,
+    "stock": 55,
+    "category": "Outdoors",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-09-28T05:24:54.059Z",
+    "updatedAt": "2024-02-25T12:23:56.626Z"
+  },
+  {
+    "id": 62,
+    "sku": 4495933968482304,
+    "name": "Electronic Fresh Chicken",
+    "price": 60.42,
+    "stock": 30,
+    "category": "Music",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": true,
+      "discount": 55,
+      "discountedPrice": 27.189
+    },
+    "createdAt": "2023-11-10T04:27:20.231Z",
+    "updatedAt": "2024-02-25T20:37:08.771Z"
+  },
+  {
+    "id": 63,
+    "sku": 4265493571567616,
+    "name": "Refined Soft Gloves",
+    "price": 142.68,
+    "stock": 66,
+    "category": "Shoes",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 46,
+      "discountedPrice": 77.0472
+    },
+    "createdAt": "2023-11-26T06:53:00.865Z",
+    "updatedAt": "2024-02-25T12:20:02.645Z"
+  },
+  {
+    "id": 64,
+    "sku": 4807275961122816,
+    "name": "Refined Fresh Bacon",
+    "price": 136.75,
+    "stock": 34,
+    "category": "Toys",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": true,
+      "discount": 57,
+      "discountedPrice": 58.802499999999995
+    },
+    "createdAt": "2023-04-26T16:16:15.348Z",
+    "updatedAt": "2024-02-25T17:32:13.955Z"
+  },
+  {
+    "id": 65,
+    "sku": 6546426397982720,
+    "name": "Intelligent Rubber Gloves",
+    "price": 134.96,
+    "stock": 14,
+    "category": "Health",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 65,
+      "discountedPrice": 47.23600000000002
+    },
+    "createdAt": "2023-09-27T11:45:14.989Z",
+    "updatedAt": "2024-02-25T14:58:24.120Z"
+  },
+  {
+    "id": 66,
+    "sku": 3998902663512064,
+    "name": "Licensed Soft Hat",
+    "price": 89.69,
+    "stock": 49,
+    "category": "Outdoors",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 53,
+      "discountedPrice": 42.1543
+    },
+    "createdAt": "2023-04-25T16:24:08.386Z",
+    "updatedAt": "2024-02-25T21:45:21.830Z"
+  },
+  {
+    "id": 67,
+    "sku": 4981494686679040,
+    "name": "Licensed Metal Chips",
+    "price": 146.47,
+    "stock": 90,
+    "category": "Jewelery",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-03-21T07:12:26.937Z",
+    "updatedAt": "2024-02-25T22:30:32.474Z"
+  },
+  {
+    "id": 68,
+    "sku": 8138781016195072,
+    "name": "Incredible Fresh Bike",
+    "price": 109.12,
+    "stock": 4,
+    "category": "Industrial",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 27,
+      "discountedPrice": 79.6576
+    },
+    "createdAt": "2023-11-15T16:06:44.413Z",
+    "updatedAt": "2024-02-26T00:06:34.532Z"
+  },
+  {
+    "id": 69,
+    "sku": 4214926795079680,
+    "name": "Tasty Metal Chips",
+    "price": 54.43,
+    "stock": 52,
+    "category": "Garden",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 47,
+      "discountedPrice": 28.8479
+    },
+    "createdAt": "2023-11-15T22:20:58.222Z",
+    "updatedAt": "2024-02-25T14:25:13.605Z"
+  },
+  {
+    "id": 70,
+    "sku": 6626528087506944,
+    "name": "Licensed Steel Chips",
+    "price": 89.14,
+    "stock": 44,
+    "category": "Shoes",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2024-01-30T08:08:49.090Z",
+    "updatedAt": "2024-02-25T10:57:52.279Z"
+  },
+  {
+    "id": 71,
+    "sku": 8290106169360384,
+    "name": "Small Concrete Salad",
+    "price": 145.15,
+    "stock": 50,
+    "category": "Automotive",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 46,
+      "discountedPrice": 78.381
+    },
+    "createdAt": "2023-09-22T20:54:48.271Z",
+    "updatedAt": "2024-02-26T03:23:37.308Z"
+  },
+  {
+    "id": 72,
+    "sku": 6089722868793344,
+    "name": "Tasty Rubber Bacon",
+    "price": 166.23,
+    "stock": 94,
+    "category": "Garden",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-11-12T11:09:59.906Z",
+    "updatedAt": "2024-02-26T00:36:35.967Z"
+  },
+  {
+    "id": 73,
+    "sku": 8893476512989184,
+    "name": "Refined Soft Salad",
+    "price": 116.26,
+    "stock": 65,
+    "category": "Computers",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-12-09T01:18:24.620Z",
+    "updatedAt": "2024-02-25T18:29:31.567Z"
+  },
+  {
+    "id": 74,
+    "sku": 6605395485261824,
+    "name": "Fantastic Plastic Fish",
+    "price": 76.98,
+    "stock": 18,
+    "category": "Grocery",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": true,
+      "discount": 30,
+      "discountedPrice": 53.886
+    },
+    "createdAt": "2024-01-24T23:29:56.672Z",
+    "updatedAt": "2024-02-26T00:50:33.717Z"
+  },
+  {
+    "id": 75,
+    "sku": 1680278229614592,
+    "name": "Sleek Soft Gloves",
+    "price": 66.83,
+    "stock": 1,
+    "category": "Home",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-20T13:37:38.384Z",
+    "updatedAt": "2024-02-25T07:39:28.122Z"
+  },
+  {
+    "id": 76,
+    "sku": 3797631750897664,
+    "name": "Intelligent Wooden Chair",
+    "price": 13.46,
+    "stock": 94,
+    "category": "Books",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-12-23T16:42:03.309Z",
+    "updatedAt": "2024-02-25T10:26:06.707Z"
+  },
+  {
+    "id": 77,
+    "sku": 4163805972004864,
+    "name": "Unbranded Soft Keyboard",
+    "price": 93.87,
+    "stock": 61,
+    "category": "Toys",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-05-11T18:05:38.575Z",
+    "updatedAt": "2024-02-26T03:50:30.968Z"
+  },
+  {
+    "id": 78,
+    "sku": 5503410577080320,
+    "name": "Luxurious Cotton Cheese",
+    "price": 27.01,
+    "stock": 13,
+    "category": "Movies",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 46,
+      "discountedPrice": 14.585400000000002
+    },
+    "createdAt": "2023-05-10T05:20:04.035Z",
+    "updatedAt": "2024-02-25T19:12:12.446Z"
+  },
+  {
+    "id": 79,
+    "sku": 3920679663566848,
+    "name": "Unbranded Concrete Sausages",
+    "price": 16.04,
+    "stock": 85,
+    "category": "Books",
+    "provider": "Rowe - Christiansen",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2024-02-24T09:14:06.645Z",
+    "updatedAt": "2024-02-25T07:27:06.467Z"
+  },
+  {
+    "id": 80,
+    "sku": 4834439611809792,
+    "name": "Rustic Soft Towels",
+    "price": 162.36,
+    "stock": 21,
+    "category": "Garden",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-09-27T15:27:17.097Z",
+    "updatedAt": "2024-02-25T10:23:23.612Z"
+  },
+  {
+    "id": 81,
+    "sku": 7370747934670848,
+    "name": "Sleek Bronze Shoes",
+    "price": 89.77,
+    "stock": 46,
+    "category": "Automotive",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": true,
+      "discount": 30,
+      "discountedPrice": 62.839
+    },
+    "createdAt": "2024-02-13T10:34:42.276Z",
+    "updatedAt": "2024-02-25T12:40:42.026Z"
+  },
+  {
+    "id": 82,
+    "sku": 4906365592010752,
+    "name": "Handcrafted Bronze Cheese",
+    "price": 58.85,
+    "stock": 83,
+    "category": "Automotive",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 61,
+      "discountedPrice": 22.951500000000003
+    },
+    "createdAt": "2023-03-01T22:25:11.283Z",
+    "updatedAt": "2024-02-25T12:10:21.907Z"
+  },
+  {
+    "id": 83,
+    "sku": 1073694820532224,
+    "name": "Awesome Granite Towels",
+    "price": 60.38,
+    "stock": 98,
+    "category": "Industrial",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 64,
+      "discountedPrice": 21.736800000000002
+    },
+    "createdAt": "2023-06-19T15:15:16.698Z",
+    "updatedAt": "2024-02-25T18:26:00.290Z"
+  },
+  {
+    "id": 84,
+    "sku": 2875612639264768,
+    "name": "Generic Cotton Ball",
+    "price": 21.78,
+    "stock": 6,
+    "category": "Electronics",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-04-05T21:20:32.868Z",
+    "updatedAt": "2024-02-25T10:15:29.026Z"
+  },
+  {
+    "id": 85,
+    "sku": 5867619760472064,
+    "name": "Gorgeous Soft Mouse",
+    "price": 52.45,
+    "stock": 59,
+    "category": "Home",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2024-01-25T17:31:41.286Z",
+    "updatedAt": "2024-02-25T07:38:07.109Z"
+  },
+  {
+    "id": 86,
+    "sku": 2112069258182656,
+    "name": "Sleek Metal Chips",
+    "price": 43.83,
+    "stock": 80,
+    "category": "Jewelery",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2024-02-19T03:09:05.351Z",
+    "updatedAt": "2024-02-25T20:45:23.938Z"
+  },
+  {
+    "id": 87,
+    "sku": 6217493601320960,
+    "name": "Unbranded Steel Chair",
+    "price": 86.57,
+    "stock": 62,
+    "category": "Electronics",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-09-29T12:06:49.983Z",
+    "updatedAt": "2024-02-25T04:31:50.308Z"
+  },
+  {
+    "id": 88,
+    "sku": 1526867806912512,
+    "name": "Fantastic Frozen Chips",
+    "price": 54.85,
+    "stock": 93,
+    "category": "Sports",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 60,
+      "discountedPrice": 21.940000000000005
+    },
+    "createdAt": "2023-08-28T08:21:55.967Z",
+    "updatedAt": "2024-02-26T01:19:35.695Z"
+  },
+  {
+    "id": 89,
+    "sku": 5169714948997120,
+    "name": "Small Wooden Gloves",
+    "price": 158.25,
+    "stock": 64,
+    "category": "Electronics",
+    "provider": "Brown - Mosciski",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-05-04T04:06:24.237Z",
+    "updatedAt": "2024-02-25T15:32:59.633Z"
+  },
+  {
+    "id": 90,
+    "sku": 4957270521675776,
+    "name": "Handmade Cotton Pants",
+    "price": 173.41,
+    "stock": 91,
+    "category": "Sports",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": true,
+      "discount": 57,
+      "discountedPrice": 74.56630000000001
+    },
+    "createdAt": "2023-05-29T00:18:05.332Z",
+    "updatedAt": "2024-02-25T08:59:02.958Z"
+  },
+  {
+    "id": 91,
+    "sku": 5659503863267328,
+    "name": "Electronic Metal Table",
+    "price": 21.41,
+    "stock": 72,
+    "category": "Movies",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": true,
+      "discount": 73,
+      "discountedPrice": 5.7806999999999995
+    },
+    "createdAt": "2023-07-03T02:11:38.157Z",
+    "updatedAt": "2024-02-25T18:40:15.001Z"
+  },
+  {
+    "id": 92,
+    "sku": 1220102806568960,
+    "name": "Handcrafted Concrete Table",
+    "price": 67.57,
+    "stock": 50,
+    "category": "Baby",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-08-26T19:58:57.485Z",
+    "updatedAt": "2024-02-25T16:04:01.273Z"
+  },
+  {
+    "id": 93,
+    "sku": 1404336651370496,
+    "name": "Rustic Bronze Bacon",
+    "price": 43.65,
+    "stock": 4,
+    "category": "Computers",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-25T08:40:14.379Z",
+    "updatedAt": "2024-02-25T22:50:13.263Z"
+  },
+  {
+    "id": 94,
+    "sku": 3507741725294592,
+    "name": "Handmade Metal Chips",
+    "price": 139.04,
+    "stock": 78,
+    "category": "Kids",
+    "provider": "Jones Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-05-16T04:37:23.505Z",
+    "updatedAt": "2024-02-25T09:13:59.285Z"
+  },
+  {
+    "id": 95,
+    "sku": 427639665852416,
+    "name": "Modern Rubber Bacon",
+    "price": 37.98,
+    "stock": 26,
+    "category": "Clothing",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-05-04T16:42:56.370Z",
+    "updatedAt": "2024-02-25T20:00:15.972Z"
+  },
+  {
+    "id": 96,
+    "sku": 6520660933214208,
+    "name": "Unbranded Fresh Gloves",
+    "price": 155.84,
+    "stock": 89,
+    "category": "Industrial",
+    "provider": "Corkery, Hartmann and Hermann",
+    "offer": {
+      "isOffer": true,
+      "discount": 44,
+      "discountedPrice": 87.27040000000001
+    },
+    "createdAt": "2023-05-06T12:49:16.231Z",
+    "updatedAt": "2024-02-25T16:50:41.043Z"
+  },
+  {
+    "id": 97,
+    "sku": 7111925917810688,
+    "name": "Electronic Frozen Car",
+    "price": 39.1,
+    "stock": 58,
+    "category": "Tools",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-07-22T23:50:24.593Z",
+    "updatedAt": "2024-02-25T21:52:04.927Z"
+  },
+  {
+    "id": 98,
+    "sku": 4816015535898624,
+    "name": "Recycled Bronze Sausages",
+    "price": 105.36,
+    "stock": 58,
+    "category": "Shoes",
+    "provider": "Quitzon Group",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-10-25T22:28:35.596Z",
+    "updatedAt": "2024-02-25T19:08:48.689Z"
+  },
+  {
+    "id": 99,
+    "sku": 6343370267951104,
+    "name": "Modern Metal Shoes",
+    "price": 119.14,
+    "stock": 96,
+    "category": "Clothing",
+    "provider": "Schumm, Zulauf and Treutel",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-09-13T21:32:44.219Z",
+    "updatedAt": "2024-02-25T09:40:13.986Z"
+  },
+  {
+    "id": 100,
+    "sku": 204384839401472,
+    "name": "Rustic Steel Sausages",
+    "price": 62.37,
+    "stock": 79,
+    "category": "Books",
+    "provider": "Moen - Stehr",
+    "offer": {
+      "isOffer": false,
+      "discount": 0,
+      "discountedPrice": 0
+    },
+    "createdAt": "2023-05-26T19:19:00.648Z",
+    "updatedAt": "2024-02-25T22:27:07.079Z"
+  }
+]

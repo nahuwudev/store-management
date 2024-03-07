@@ -1,0 +1,72 @@
+[
+  {
+    "id": "09761dbd-0433-4d74-921e-3fd867a454fb",
+    "address": "8154 Dooley Wall",
+    "contactPerson": "Elias S",
+    "email": "Devonte_Boyer77@hotmail.com",
+    "company": "Moen - Stehr",
+    "phone": "(817) 589-3506",
+    "createdAt": "2023-04-21T14:07:25.637Z",
+    "updatedAt": "2024-02-26T07:43:27.556Z"
+  },
+  {
+    "id": "f9046b50-0b86-4bf9-be31-aa5372bb6e73",
+    "address": "2011 Jon Unions",
+    "contactPerson": "Ramona Hahn",
+    "email": "Nathaniel.Hand98@gmail.com",
+    "company": "Rowe - Christiansen",
+    "phone": "1-233-431-3515 x7074",
+    "createdAt": "2024-01-23T12:19:13.970Z",
+    "updatedAt": "2024-02-26T09:39:46.421Z"
+  },
+  {
+    "id": "a87c834c-68bc-4bc8-98a3-44f1abbb8710",
+    "address": "590 Isabelle Spring",
+    "contactPerson": "Byron Spinka",
+    "email": "Easter19@gmail.com",
+    "company": "Jones Group",
+    "phone": "443-522-5287",
+    "createdAt": "2023-06-15T04:54:54.559Z",
+    "updatedAt": "2024-02-26T17:11:24.778Z"
+  },
+  {
+    "id": "e2b13cf6-d12a-4690-a377-25ef038ae6ab",
+    "address": "316 Shanahan Valleys",
+    "contactPerson": "Dr. Brian Mann",
+    "email": "Rebeca.Frami56@gmail.com",
+    "company": "Brown - Mosciski",
+    "phone": "(671) 891-6702 x0282",
+    "createdAt": "2023-03-05T21:54:42.750Z",
+    "updatedAt": "2024-02-26T09:34:57.449Z"
+  },
+  {
+    "id": "95115714-c876-40ea-b2c0-0df516afc106",
+    "address": "3021 Georgianna Points",
+    "contactPerson": "Lindsey Zieme",
+    "email": "Broderick_Legros@hotmail.com",
+    "company": "Schumm, Zulauf and Treutel",
+    "phone": "374-277-1425",
+    "createdAt": "2023-03-09T18:24:09.868Z",
+    "updatedAt": "2024-02-26T21:40:52.200Z"
+  },
+  {
+    "id": "dd0b509b-4db9-46d5-8086-f6035599a74c",
+    "address": "6233 Fidel Knolls",
+    "contactPerson": "Tomas Daugherty",
+    "email": "Addie_Schumm@hotmail.com",
+    "company": "Corkery, Hartmann and Hermann",
+    "phone": "783.409.7628 x44200",
+    "createdAt": "2023-03-15T12:09:57.774Z",
+    "updatedAt": "2024-02-26T04:57:42.054Z"
+  },
+  {
+    "id": "8c9b73a5-2aea-45be-8321-e5938ff1d012",
+    "address": "76085 Elsa Alley",
+    "contactPerson": "Melvin Hartmann",
+    "email": "Elizabeth65@gmail.com",
+    "company": "Quitzon Group",
+    "phone": "708-992-0534 x661",
+    "createdAt": "2023-04-13T07:14:28.374Z",
+    "updatedAt": "2024-02-26T10:05:48.508Z"
+  }
+]

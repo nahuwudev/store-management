@@ -1,0 +1,5510 @@
+[
+  {
+    "id": "a023cda4-41a3-4542-8a15-e232f5790cff",
+    "products": [
+      {
+        "id": 88,
+        "sku": 2134804147470336,
+        "name": "Unbranded Bronze Salad",
+        "price": 406.34,
+        "stock": 42,
+        "category": "Grocery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-12T17:38:14.049Z",
+        "updatedAt": "2024-02-17T09:51:58.938Z",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "sku": 3785010683314176,
+        "name": "Handmade Fresh Mouse",
+        "price": 985.08,
+        "stock": 37,
+        "category": "Sports",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-30T02:40:20.069Z",
+        "updatedAt": "2024-02-16T17:03:44.843Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1391.4,
+    "customerName": "Sandra Batz",
+    "shippingAddress": {
+      "city": "Scottsdale",
+      "country": "Taiwan",
+      "state": "Ghana",
+      "street": "East Avenue",
+      "zipCode": "94811"
+    },
+    "paymentMethod": "crypto",
+    "status": "pending",
+    "createdAt": "2023-06-28T02:19:00.165Z",
+    "updatedAt": "2024-02-25T10:07:07.446Z"
+  },
+  {
+    "id": "f5ad8316-24fb-419a-bf2f-c189c2d11532",
+    "products": [
+      {
+        "id": 12,
+        "sku": 3785010683314176,
+        "name": "Handmade Fresh Mouse",
+        "price": 985.08,
+        "stock": 37,
+        "category": "Sports",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-30T02:40:20.069Z",
+        "updatedAt": "2024-02-16T17:03:44.843Z",
+        "quantity": 1
+      },
+      {
+        "id": 14,
+        "sku": 1794435142647808,
+        "name": "Rustic Plastic Chicken",
+        "price": 180.03,
+        "stock": 47,
+        "category": "Garden",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-09T17:18:05.135Z",
+        "updatedAt": "2024-02-17T08:43:29.950Z",
+        "quantity": 1
+      },
+      {
+        "id": 19,
+        "sku": 8928910293073920,
+        "name": "Oriental Concrete Chicken",
+        "price": 856.5,
+        "stock": 56,
+        "category": "Automotive",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 21,
+          "discountedPrice": 676.63
+        },
+        "createdAt": "2023-05-25T23:48:37.732Z",
+        "updatedAt": "2024-02-17T04:41:13.560Z",
+        "quantity": 1
+      },
+      {
+        "id": 89,
+        "sku": 5589735407878144,
+        "name": "Licensed Granite Sausages",
+        "price": 385.31,
+        "stock": 73,
+        "category": "Kids",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-27T09:19:23.467Z",
+        "updatedAt": "2024-02-16T23:55:05.261Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2406.92,
+    "customerName": "Evan Spencer",
+    "shippingAddress": {
+      "city": "Port Isobelworth",
+      "country": "Bulgaria",
+      "state": "Faroe Islands",
+      "street": "Bradtke Fall",
+      "zipCode": "02136-8388"
+    },
+    "paymentMethod": "credit_card",
+    "status": "canceled",
+    "createdAt": "2023-12-28T19:18:18.075Z",
+    "updatedAt": "2024-02-25T02:12:44.769Z"
+  },
+  {
+    "id": "040bd13c-8d0f-40a1-91d5-be61a87e82c8",
+    "products": [
+      {
+        "id": 4,
+        "sku": 1554999603625984,
+        "name": "Handcrafted Concrete Car",
+        "price": 690.71,
+        "stock": 24,
+        "category": "Shoes",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-03T19:42:31.157Z",
+        "updatedAt": "2024-02-17T00:38:16.810Z",
+        "quantity": 1
+      },
+      {
+        "id": 13,
+        "sku": 371382005268480,
+        "name": "Recycled Metal Chips",
+        "price": 220.54,
+        "stock": 89,
+        "category": "Computers",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-01T17:25:30.685Z",
+        "updatedAt": "2024-02-16T21:15:26.391Z",
+        "quantity": 1
+      },
+      {
+        "id": 44,
+        "sku": 6962242222292992,
+        "name": "Handmade Soft Gloves",
+        "price": 14.11,
+        "stock": 24,
+        "category": "Sports",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-30T10:33:50.076Z",
+        "updatedAt": "2024-02-17T11:42:00.614Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1171.94,
+    "customerName": "Leo Sawayn",
+    "shippingAddress": {
+      "city": "Fort Gerardo",
+      "country": "India",
+      "state": "Monaco",
+      "street": "Talia Expressway",
+      "zipCode": "32595"
+    },
+    "paymentMethod": "debit_card",
+    "status": "pending",
+    "createdAt": "2023-09-12T09:22:13.789Z",
+    "updatedAt": "2024-02-24T21:45:06.633Z"
+  },
+  {
+    "id": "0c7bb776-15aa-4f2b-9a56-e89f3e3c42be",
+    "products": [
+      {
+        "id": 74,
+        "sku": 903532181979136,
+        "name": "Sleek Metal Gloves",
+        "price": 204.11,
+        "stock": 84,
+        "category": "Baby",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T22:16:52.067Z",
+        "updatedAt": "2024-02-17T08:54:42.326Z",
+        "quantity": 1
+      }
+    ],
+    "total": 204.11,
+    "customerName": "Vera Stehr-Kunde",
+    "shippingAddress": {
+      "city": "Marksstad",
+      "country": "Spain",
+      "state": "Bhutan",
+      "street": "Ash Road",
+      "zipCode": "79206-1355"
+    },
+    "paymentMethod": "paypal",
+    "status": "canceled",
+    "createdAt": "2023-12-20T01:02:39.207Z",
+    "updatedAt": "2024-02-25T10:13:08.180Z"
+  },
+  {
+    "id": "4e809617-3e75-4a34-a4b3-a71da707e2d0",
+    "products": [
+      {
+        "id": 13,
+        "sku": 371382005268480,
+        "name": "Recycled Metal Chips",
+        "price": 220.54,
+        "stock": 89,
+        "category": "Computers",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-01T17:25:30.685Z",
+        "updatedAt": "2024-02-16T21:15:26.391Z",
+        "quantity": 1
+      },
+      {
+        "id": 47,
+        "sku": 334490639532032,
+        "name": "Practical Fresh Towels",
+        "price": 430.08,
+        "stock": 68,
+        "category": "Outdoors",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 46,
+          "discountedPrice": 232.24
+        },
+        "createdAt": "2023-05-08T03:31:00.261Z",
+        "updatedAt": "2024-02-17T11:49:59.095Z",
+        "quantity": 1
+      },
+      {
+        "id": 68,
+        "sku": 1465523613204480,
+        "name": "Gorgeous Fresh Car",
+        "price": 50.97,
+        "stock": 3,
+        "category": "Sports",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 13,
+          "discountedPrice": 44.34
+        },
+        "createdAt": "2024-02-03T23:18:37.382Z",
+        "updatedAt": "2024-02-17T11:07:11.520Z",
+        "quantity": 1
+      },
+      {
+        "id": 72,
+        "sku": 5771695801499648,
+        "name": "Practical Cotton Sausages",
+        "price": 674.84,
+        "stock": 94,
+        "category": "Home",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 42,
+          "discountedPrice": 391.41
+        },
+        "createdAt": "2023-04-06T15:23:10.172Z",
+        "updatedAt": "2024-02-16T23:49:31.780Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1376.43,
+    "customerName": "Ms. Colleen Rice",
+    "shippingAddress": {
+      "city": "Emmerichville",
+      "country": "Antigua and Barbuda",
+      "state": "Republic of Korea",
+      "street": "Jackson Avenue",
+      "zipCode": "22718"
+    },
+    "paymentMethod": "crypto",
+    "status": "canceled",
+    "createdAt": "2023-07-09T09:30:20.945Z",
+    "updatedAt": "2024-02-25T08:33:54.748Z"
+  },
+  {
+    "id": "83b6b511-2217-484a-81c8-8611fac44537",
+    "products": [
+      {
+        "id": 9,
+        "sku": 6931206417416192,
+        "name": "Gorgeous Concrete Hat",
+        "price": 809.8,
+        "stock": 42,
+        "category": "Automotive",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-11-26T19:51:54.049Z",
+        "updatedAt": "2024-02-16T17:17:32.467Z",
+        "quantity": 1
+      },
+      {
+        "id": 15,
+        "sku": 7117763271196672,
+        "name": "Licensed Bronze Sausages",
+        "price": 100.94,
+        "stock": 9,
+        "category": "Electronics",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 28,
+          "discountedPrice": 72.68
+        },
+        "createdAt": "2023-05-03T08:00:45.002Z",
+        "updatedAt": "2024-02-17T15:56:32.296Z",
+        "quantity": 1
+      },
+      {
+        "id": 27,
+        "sku": 3810672475373568,
+        "name": "Licensed Bronze Pizza",
+        "price": 16.83,
+        "stock": 13,
+        "category": "Shoes",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 32,
+          "discountedPrice": 11.44
+        },
+        "createdAt": "2023-10-30T11:33:43.981Z",
+        "updatedAt": "2024-02-17T11:14:54.369Z",
+        "quantity": 1
+      },
+      {
+        "id": 43,
+        "sku": 7398764023119872,
+        "name": "Rustic Cotton Car",
+        "price": 616.91,
+        "stock": 5,
+        "category": "Industrial",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-22T22:12:58.592Z",
+        "updatedAt": "2024-02-16T21:46:56.226Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      },
+      {
+        "id": 81,
+        "sku": 7759701601157120,
+        "name": "Intelligent Bronze Chair",
+        "price": 580.57,
+        "stock": 92,
+        "category": "Automotive",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-28T14:00:48.824Z",
+        "updatedAt": "2024-02-17T05:21:13.755Z",
+        "quantity": 1
+      },
+      {
+        "id": 84,
+        "sku": 8318609560436736,
+        "name": "Luxurious Frozen Gloves",
+        "price": 403.07,
+        "stock": 58,
+        "category": "Kids",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-30T06:38:07.245Z",
+        "updatedAt": "2024-02-17T08:33:16.149Z",
+        "quantity": 1
+      }
+    ],
+    "total": 3157.72,
+    "customerName": "Alexander Dickinson V",
+    "shippingAddress": {
+      "city": "Mission",
+      "country": "Faroe Islands",
+      "state": "Azerbaijan",
+      "street": "Bergnaum Streets",
+      "zipCode": "29806"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "pending",
+    "createdAt": "2023-11-23T22:48:53.867Z",
+    "updatedAt": "2024-02-25T16:50:49.292Z"
+  },
+  {
+    "id": "9e71edfe-2e56-44bf-b203-016a0ccdc8d5",
+    "products": [
+      {
+        "id": 84,
+        "sku": 8318609560436736,
+        "name": "Luxurious Frozen Gloves",
+        "price": 403.07,
+        "stock": 58,
+        "category": "Kids",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-30T06:38:07.245Z",
+        "updatedAt": "2024-02-17T08:33:16.149Z",
+        "quantity": 1
+      }
+    ],
+    "total": 403.07,
+    "customerName": "Alberto Blick",
+    "shippingAddress": {
+      "city": "Port Fionaland",
+      "country": "Nicaragua",
+      "state": "Spain",
+      "street": "Hand Station",
+      "zipCode": "36682-7103"
+    },
+    "paymentMethod": "crypto",
+    "status": "completed",
+    "createdAt": "2023-11-04T22:37:35.322Z",
+    "updatedAt": "2024-02-25T01:52:02.542Z"
+  },
+  {
+    "id": "4197b3b8-c747-4152-98dd-5b420d239941",
+    "products": [
+      {
+        "id": 20,
+        "sku": 6456325078777856,
+        "name": "Tasty Fresh Computer",
+        "price": 883.93,
+        "stock": 81,
+        "category": "Clothing",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-06-13T21:00:44.006Z",
+        "updatedAt": "2024-02-17T06:19:32.935Z",
+        "quantity": 1
+      },
+      {
+        "id": 21,
+        "sku": 1489078453272576,
+        "name": "Intelligent Wooden Computer",
+        "price": 495.48,
+        "stock": 68,
+        "category": "Industrial",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-02T18:57:40.287Z",
+        "updatedAt": "2024-02-17T12:58:49.209Z",
+        "quantity": 1
+      },
+      {
+        "id": 32,
+        "sku": 7548847601483776,
+        "name": "Unbranded Bronze Bike",
+        "price": 122.42,
+        "stock": 53,
+        "category": "Games",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 12,
+          "discountedPrice": 107.73
+        },
+        "createdAt": "2023-11-13T16:21:35.188Z",
+        "updatedAt": "2024-02-16T20:32:58.341Z",
+        "quantity": 1
+      },
+      {
+        "id": 41,
+        "sku": 5569367790059520,
+        "name": "Awesome Soft Bike",
+        "price": 182.43,
+        "stock": 96,
+        "category": "Music",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-02T01:18:19.711Z",
+        "updatedAt": "2024-02-16T17:39:25.255Z",
+        "quantity": 1
+      },
+      {
+        "id": 90,
+        "sku": 5881241767247872,
+        "name": "Unbranded Cotton Hat",
+        "price": 574.15,
+        "stock": 92,
+        "category": "Baby",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-29T13:41:23.174Z",
+        "updatedAt": "2024-02-16T19:50:15.569Z",
+        "quantity": 1
+      },
+      {
+        "id": 92,
+        "sku": 8209291563499520,
+        "name": "Recycled Granite Pizza",
+        "price": 941.83,
+        "stock": 89,
+        "category": "Automotive",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-26T01:11:16.803Z",
+        "updatedAt": "2024-02-16T19:16:51.855Z",
+        "quantity": 3
+      }
+    ],
+    "total": 5083.9,
+    "customerName": "Jenna Simonis DDS",
+    "shippingAddress": {
+      "city": "East Richard",
+      "country": "South Georgia and the South Sandwich Islands",
+      "state": "Italy",
+      "street": "Manor Gardens",
+      "zipCode": "96039-6948"
+    },
+    "paymentMethod": "debit_card",
+    "status": "canceled",
+    "createdAt": "2023-06-16T19:43:50.591Z",
+    "updatedAt": "2024-02-25T09:31:36.086Z"
+  },
+  {
+    "id": "87522b34-851c-400d-8760-46ad3b71bd89",
+    "products": [
+      {
+        "id": 11,
+        "sku": 438339985473536,
+        "name": "Refined Plastic Sausages",
+        "price": 18.53,
+        "stock": 47,
+        "category": "Beauty",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-16T10:45:55.055Z",
+        "updatedAt": "2024-02-17T05:15:20.302Z",
+        "quantity": 1
+      },
+      {
+        "id": 68,
+        "sku": 1465523613204480,
+        "name": "Gorgeous Fresh Car",
+        "price": 50.97,
+        "stock": 3,
+        "category": "Sports",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 13,
+          "discountedPrice": 44.34
+        },
+        "createdAt": "2024-02-03T23:18:37.382Z",
+        "updatedAt": "2024-02-17T11:07:11.520Z",
+        "quantity": 1
+      },
+      {
+        "id": 84,
+        "sku": 8318609560436736,
+        "name": "Luxurious Frozen Gloves",
+        "price": 403.07,
+        "stock": 58,
+        "category": "Kids",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-30T06:38:07.245Z",
+        "updatedAt": "2024-02-17T08:33:16.149Z",
+        "quantity": 1
+      }
+    ],
+    "total": 472.57,
+    "customerName": "Dr. Seth Franey",
+    "shippingAddress": {
+      "city": "Lake Cathrine",
+      "country": "Curacao",
+      "state": "Ukraine",
+      "street": "London Unions",
+      "zipCode": "08211"
+    },
+    "paymentMethod": "debit_card",
+    "status": "pending",
+    "createdAt": "2023-06-17T05:28:01.127Z",
+    "updatedAt": "2024-02-25T05:55:39.487Z"
+  },
+  {
+    "id": "f8227d45-14bd-4d2d-aded-85af76e9c94f",
+    "products": [
+      {
+        "id": 23,
+        "sku": 4325308786278400,
+        "name": "Gorgeous Steel Chicken",
+        "price": 826.24,
+        "stock": 66,
+        "category": "Clothing",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-02T20:35:33.507Z",
+        "updatedAt": "2024-02-17T08:33:50.932Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1455.84,
+    "customerName": "Neil Tromp",
+    "shippingAddress": {
+      "city": "North Adolffurt",
+      "country": "Iran",
+      "state": "Central African Republic",
+      "street": "New Street",
+      "zipCode": "57105"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "canceled",
+    "createdAt": "2024-01-29T19:15:46.897Z",
+    "updatedAt": "2024-02-25T04:37:31.416Z"
+  },
+  {
+    "id": "0cae5fb3-9ce4-4bcf-8a5b-55da9ff19a0b",
+    "products": [
+      {
+        "id": 38,
+        "sku": 2052948368556032,
+        "name": "Luxurious Wooden Table",
+        "price": 123.23,
+        "stock": 81,
+        "category": "Home",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-17T15:20:57.354Z",
+        "updatedAt": "2024-02-16T20:14:25.895Z",
+        "quantity": 1
+      },
+      {
+        "id": 47,
+        "sku": 334490639532032,
+        "name": "Practical Fresh Towels",
+        "price": 430.08,
+        "stock": 68,
+        "category": "Outdoors",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 46,
+          "discountedPrice": 232.24
+        },
+        "createdAt": "2023-05-08T03:31:00.261Z",
+        "updatedAt": "2024-02-17T11:49:59.095Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      },
+      {
+        "id": 98,
+        "sku": 7675559945437184,
+        "name": "Modern Metal Tuna",
+        "price": 315.34,
+        "stock": 87,
+        "category": "Industrial",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 2,
+          "discountedPrice": 309.03
+        },
+        "createdAt": "2023-12-14T03:07:34.050Z",
+        "updatedAt": "2024-02-17T01:26:47.012Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1115.23,
+    "customerName": "Mr. Felipe Swaniawski",
+    "shippingAddress": {
+      "city": "Lurafield",
+      "country": "India",
+      "state": "Guernsey",
+      "street": "Allene Haven",
+      "zipCode": "19004"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "canceled",
+    "createdAt": "2023-09-28T17:56:30.647Z",
+    "updatedAt": "2024-02-25T00:10:10.246Z"
+  },
+  {
+    "id": "0a6c12a2-8263-4376-b2d0-9105ab6f5b67",
+    "products": [
+      {
+        "id": 4,
+        "sku": 1554999603625984,
+        "name": "Handcrafted Concrete Car",
+        "price": 690.71,
+        "stock": 24,
+        "category": "Shoes",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-03T19:42:31.157Z",
+        "updatedAt": "2024-02-17T00:38:16.810Z",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "sku": 3785010683314176,
+        "name": "Handmade Fresh Mouse",
+        "price": 985.08,
+        "stock": 37,
+        "category": "Sports",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-30T02:40:20.069Z",
+        "updatedAt": "2024-02-16T17:03:44.843Z",
+        "quantity": 1
+      },
+      {
+        "id": 24,
+        "sku": 7370106501857280,
+        "name": "Incredible Plastic Soap",
+        "price": 689.39,
+        "stock": 49,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 654.92
+        },
+        "createdAt": "2023-06-09T08:48:08.549Z",
+        "updatedAt": "2024-02-16T19:24:26.107Z",
+        "quantity": 1
+      },
+      {
+        "id": 46,
+        "sku": 5327275639701504,
+        "name": "Sleek Frozen Salad",
+        "price": 536.43,
+        "stock": 36,
+        "category": "Grocery",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-22T17:55:27.452Z",
+        "updatedAt": "2024-02-16T21:20:50.786Z",
+        "quantity": 1
+      },
+      {
+        "id": 49,
+        "sku": 45531095105536,
+        "name": "Handcrafted Steel Gloves",
+        "price": 437.55,
+        "stock": 11,
+        "category": "Industrial",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-01T13:23:46.101Z",
+        "updatedAt": "2024-02-16T23:53:56.893Z",
+        "quantity": 1
+      },
+      {
+        "id": 50,
+        "sku": 529857758887936,
+        "name": "Awesome Steel Shirt",
+        "price": 115.63,
+        "stock": 57,
+        "category": "Home",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 46,
+          "discountedPrice": 62.44
+        },
+        "createdAt": "2023-05-01T16:06:39.486Z",
+        "updatedAt": "2024-02-17T14:06:58.685Z",
+        "quantity": 1
+      },
+      {
+        "id": 59,
+        "sku": 4088896180715520,
+        "name": "Generic Frozen Table",
+        "price": 889.55,
+        "stock": 3,
+        "category": "Health",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-14T19:56:24.615Z",
+        "updatedAt": "2024-02-17T13:42:26.127Z",
+        "quantity": 1
+      },
+      {
+        "id": 92,
+        "sku": 8209291563499520,
+        "name": "Recycled Granite Pizza",
+        "price": 941.83,
+        "stock": 89,
+        "category": "Automotive",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-26T01:11:16.803Z",
+        "updatedAt": "2024-02-16T19:16:51.855Z",
+        "quantity": 1
+      },
+      {
+        "id": 94,
+        "sku": 6488564592279552,
+        "name": "Sleek Granite Shirt",
+        "price": 71.74,
+        "stock": 34,
+        "category": "Garden",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 35,
+          "discountedPrice": 46.63
+        },
+        "createdAt": "2023-04-25T22:29:18.303Z",
+        "updatedAt": "2024-02-16T22:17:57.004Z",
+        "quantity": 1
+      },
+      {
+        "id": 99,
+        "sku": 670049935294464,
+        "name": "Unbranded Wooden Soap",
+        "price": 828.43,
+        "stock": 27,
+        "category": "Garden",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 36,
+          "discountedPrice": 530.2
+        },
+        "createdAt": "2024-02-12T13:53:00.062Z",
+        "updatedAt": "2024-02-17T06:42:38.994Z",
+        "quantity": 1
+      }
+    ],
+    "total": 6186.34,
+    "customerName": "Melinda Jakubowski",
+    "shippingAddress": {
+      "city": "Lake Dayneview",
+      "country": "American Samoa",
+      "state": "Afghanistan",
+      "street": "David Skyway",
+      "zipCode": "32967"
+    },
+    "paymentMethod": "debit_card",
+    "status": "completed",
+    "createdAt": "2023-12-27T14:05:13.621Z",
+    "updatedAt": "2024-02-25T07:11:39.351Z"
+  },
+  {
+    "id": "38d3f0f9-fb0d-4a9c-b7f7-795dfb1d8efc",
+    "products": [
+      {
+        "id": 10,
+        "sku": 8799578992148480,
+        "name": "Sleek Frozen Car",
+        "price": 268.74,
+        "stock": 75,
+        "category": "Garden",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-06-19T04:29:42.662Z",
+        "updatedAt": "2024-02-17T06:40:53.077Z",
+        "quantity": 1
+      },
+      {
+        "id": 24,
+        "sku": 7370106501857280,
+        "name": "Incredible Plastic Soap",
+        "price": 689.39,
+        "stock": 49,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 654.92
+        },
+        "createdAt": "2023-06-09T08:48:08.549Z",
+        "updatedAt": "2024-02-16T19:24:26.107Z",
+        "quantity": 1
+      },
+      {
+        "id": 27,
+        "sku": 3810672475373568,
+        "name": "Licensed Bronze Pizza",
+        "price": 16.83,
+        "stock": 13,
+        "category": "Shoes",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 32,
+          "discountedPrice": 11.44
+        },
+        "createdAt": "2023-10-30T11:33:43.981Z",
+        "updatedAt": "2024-02-17T11:14:54.369Z",
+        "quantity": 1
+      },
+      {
+        "id": 38,
+        "sku": 2052948368556032,
+        "name": "Luxurious Wooden Table",
+        "price": 123.23,
+        "stock": 81,
+        "category": "Home",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-17T15:20:57.354Z",
+        "updatedAt": "2024-02-16T20:14:25.895Z",
+        "quantity": 1
+      },
+      {
+        "id": 48,
+        "sku": 572771530702848,
+        "name": "Intelligent Metal Computer",
+        "price": 991.56,
+        "stock": 45,
+        "category": "Baby",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 19,
+          "discountedPrice": 803.16
+        },
+        "createdAt": "2023-12-20T13:28:10.939Z",
+        "updatedAt": "2024-02-17T15:32:10.401Z",
+        "quantity": 1
+      },
+      {
+        "id": 77,
+        "sku": 3816609393147904,
+        "name": "Licensed Bronze Towels",
+        "price": 527.38,
+        "stock": 13,
+        "category": "Outdoors",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 48,
+          "discountedPrice": 274.24
+        },
+        "createdAt": "2024-02-05T17:54:14.669Z",
+        "updatedAt": "2024-02-17T08:27:32.527Z",
+        "quantity": 1
+      },
+      {
+        "id": 93,
+        "sku": 5080244702674944,
+        "name": "Recycled Cotton Car",
+        "price": 578.44,
+        "stock": 39,
+        "category": "Shoes",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 549.52
+        },
+        "createdAt": "2023-10-09T06:20:53.834Z",
+        "updatedAt": "2024-02-16T19:48:04.962Z",
+        "quantity": 1
+      }
+    ],
+    "total": 3195.57,
+    "customerName": "Leslie Hagenes",
+    "shippingAddress": {
+      "city": "Travonmouth",
+      "country": "Tokelau",
+      "state": "Cameroon",
+      "street": "Matilde Mountain",
+      "zipCode": "89933-9608"
+    },
+    "paymentMethod": "crypto",
+    "status": "completed",
+    "createdAt": "2023-03-13T05:47:03.203Z",
+    "updatedAt": "2024-02-25T19:42:35.193Z"
+  },
+  {
+    "id": "6aec4c49-7d12-4685-8a1a-83d08c337dee",
+    "products": [
+      {
+        "id": 25,
+        "sku": 1039640299569152,
+        "name": "Luxurious Frozen Hat",
+        "price": 345.87,
+        "stock": 52,
+        "category": "Automotive",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-24T15:26:41.598Z",
+        "updatedAt": "2024-02-16T18:48:44.254Z",
+        "quantity": 1
+      },
+      {
+        "id": 58,
+        "sku": 7338569251160064,
+        "name": "Unbranded Plastic Table",
+        "price": 644.35,
+        "stock": 10,
+        "category": "Industrial",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 24,
+          "discountedPrice": 489.71
+        },
+        "createdAt": "2023-09-06T21:47:53.579Z",
+        "updatedAt": "2024-02-17T13:29:20.965Z",
+        "quantity": 1
+      }
+    ],
+    "total": 990.22,
+    "customerName": "Micheal Kling",
+    "shippingAddress": {
+      "city": "Bartonhaven",
+      "country": "Montserrat",
+      "state": "Eritrea",
+      "street": "Thalia Cape",
+      "zipCode": "96080-1903"
+    },
+    "paymentMethod": "paypal",
+    "status": "canceled",
+    "createdAt": "2023-12-31T15:22:57.459Z",
+    "updatedAt": "2024-02-25T20:56:38.074Z"
+  },
+  {
+    "id": "974ebdd2-057d-42ea-bf7b-b39fefdf3da5",
+    "products": [
+      {
+        "id": 24,
+        "sku": 7370106501857280,
+        "name": "Incredible Plastic Soap",
+        "price": 689.39,
+        "stock": 49,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 654.92
+        },
+        "createdAt": "2023-06-09T08:48:08.549Z",
+        "updatedAt": "2024-02-16T19:24:26.107Z",
+        "quantity": 1
+      }
+    ],
+    "total": 689.39,
+    "customerName": "Alonzo Stroman",
+    "shippingAddress": {
+      "city": "Jupiter",
+      "country": "Japan",
+      "state": "Oman",
+      "street": "Reginald Hill",
+      "zipCode": "37094-6635"
+    },
+    "paymentMethod": "paypal",
+    "status": "canceled",
+    "createdAt": "2023-08-31T09:16:26.762Z",
+    "updatedAt": "2024-02-25T03:05:57.339Z"
+  },
+  {
+    "id": "d8f472ba-b676-401d-86d0-31a321082224",
+    "products": [
+      {
+        "id": 14,
+        "sku": 1794435142647808,
+        "name": "Rustic Plastic Chicken",
+        "price": 180.03,
+        "stock": 47,
+        "category": "Garden",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-09T17:18:05.135Z",
+        "updatedAt": "2024-02-17T08:43:29.950Z",
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "sku": 3284459356946432,
+        "name": "Rustic Metal Ball",
+        "price": 164.79,
+        "stock": 42,
+        "category": "Beauty",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 156.55
+        },
+        "createdAt": "2024-02-05T19:43:40.152Z",
+        "updatedAt": "2024-02-17T06:40:59.454Z",
+        "quantity": 1
+      },
+      {
+        "id": 17,
+        "sku": 4061532082143232,
+        "name": "Elegant Soft Ball",
+        "price": 228.23,
+        "stock": 11,
+        "category": "Computers",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T05:08:20.581Z",
+        "updatedAt": "2024-02-16T17:42:03.352Z",
+        "quantity": 1
+      },
+      {
+        "id": 26,
+        "sku": 615857159929856,
+        "name": "Licensed Granite Hat",
+        "price": 383.86,
+        "stock": 4,
+        "category": "Shoes",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-01-28T17:56:02.241Z",
+        "updatedAt": "2024-02-17T13:26:11.710Z",
+        "quantity": 1
+      },
+      {
+        "id": 35,
+        "sku": 6366857627959296,
+        "name": "Elegant Concrete Ball",
+        "price": 312.19,
+        "stock": 22,
+        "category": "Beauty",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 20,
+          "discountedPrice": 249.75
+        },
+        "createdAt": "2024-01-11T23:10:25.062Z",
+        "updatedAt": "2024-02-17T04:17:34.856Z",
+        "quantity": 1
+      },
+      {
+        "id": 44,
+        "sku": 6962242222292992,
+        "name": "Handmade Soft Gloves",
+        "price": 14.11,
+        "stock": 24,
+        "category": "Sports",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-30T10:33:50.076Z",
+        "updatedAt": "2024-02-17T11:42:00.614Z",
+        "quantity": 1
+      },
+      {
+        "id": 51,
+        "sku": 7299046265847808,
+        "name": "Luxurious Rubber Chicken",
+        "price": 379.63,
+        "stock": 32,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 11,
+          "discountedPrice": 337.87
+        },
+        "createdAt": "2023-03-19T04:08:34.901Z",
+        "updatedAt": "2024-02-17T15:40:50.015Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1909.42,
+    "customerName": "Ismael Aufderhar",
+    "shippingAddress": {
+      "city": "Goldamouth",
+      "country": "French Guiana",
+      "state": "Mexico",
+      "street": "Third Street",
+      "zipCode": "43881-1548"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "completed",
+    "createdAt": "2023-04-11T00:05:32.823Z",
+    "updatedAt": "2024-02-25T02:18:40.252Z"
+  },
+  {
+    "id": "169f016f-bbeb-427c-bef9-1549f01fc8ff",
+    "products": [
+      {
+        "id": 16,
+        "sku": 3284459356946432,
+        "name": "Rustic Metal Ball",
+        "price": 164.79,
+        "stock": 42,
+        "category": "Beauty",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 156.55
+        },
+        "createdAt": "2024-02-05T19:43:40.152Z",
+        "updatedAt": "2024-02-17T06:40:59.454Z",
+        "quantity": 1
+      },
+      {
+        "id": 18,
+        "sku": 5370535951204352,
+        "name": "Rustic Frozen Cheese",
+        "price": 786.44,
+        "stock": 4,
+        "category": "Games",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 26,
+          "discountedPrice": 581.97
+        },
+        "createdAt": "2023-06-19T15:04:11.471Z",
+        "updatedAt": "2024-02-17T01:04:26.678Z",
+        "quantity": 1
+      },
+      {
+        "id": 24,
+        "sku": 7370106501857280,
+        "name": "Incredible Plastic Soap",
+        "price": 689.39,
+        "stock": 49,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 654.92
+        },
+        "createdAt": "2023-06-09T08:48:08.549Z",
+        "updatedAt": "2024-02-16T19:24:26.107Z",
+        "quantity": 1
+      },
+      {
+        "id": 53,
+        "sku": 4934828069748736,
+        "name": "Oriental Cotton Soap",
+        "price": 785.23,
+        "stock": 1,
+        "category": "Grocery",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 745.97
+        },
+        "createdAt": "2023-12-27T01:59:25.151Z",
+        "updatedAt": "2024-02-16T23:45:14.224Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2425.85,
+    "customerName": "Ellen Kunze",
+    "shippingAddress": {
+      "city": "Margueriteside",
+      "country": "Peru",
+      "state": "Namibia",
+      "street": "Rickey Extension",
+      "zipCode": "84864"
+    },
+    "paymentMethod": "paypal",
+    "status": "pending",
+    "createdAt": "2024-02-08T14:15:24.364Z",
+    "updatedAt": "2024-02-25T20:09:33.777Z"
+  },
+  {
+    "id": "fa53b3ac-2e6f-40fd-9a4e-e91c05fad6eb",
+    "products": [
+      {
+        "id": 4,
+        "sku": 1554999603625984,
+        "name": "Handcrafted Concrete Car",
+        "price": 690.71,
+        "stock": 24,
+        "category": "Shoes",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-03T19:42:31.157Z",
+        "updatedAt": "2024-02-17T00:38:16.810Z",
+        "quantity": 1
+      },
+      {
+        "id": 9,
+        "sku": 6931206417416192,
+        "name": "Gorgeous Concrete Hat",
+        "price": 809.8,
+        "stock": 42,
+        "category": "Automotive",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-11-26T19:51:54.049Z",
+        "updatedAt": "2024-02-16T17:17:32.467Z",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "sku": 3785010683314176,
+        "name": "Handmade Fresh Mouse",
+        "price": 985.08,
+        "stock": 37,
+        "category": "Sports",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-30T02:40:20.069Z",
+        "updatedAt": "2024-02-16T17:03:44.843Z",
+        "quantity": 1
+      },
+      {
+        "id": 43,
+        "sku": 7398764023119872,
+        "name": "Rustic Cotton Car",
+        "price": 616.91,
+        "stock": 5,
+        "category": "Industrial",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-22T22:12:58.592Z",
+        "updatedAt": "2024-02-16T21:46:56.226Z",
+        "quantity": 1
+      },
+      {
+        "id": 45,
+        "sku": 4013762495381504,
+        "name": "Oriental Cotton Ball",
+        "price": 777.48,
+        "stock": 97,
+        "category": "Industrial",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-24T03:26:03.012Z",
+        "updatedAt": "2024-02-16T22:34:11.155Z",
+        "quantity": 1
+      },
+      {
+        "id": 80,
+        "sku": 4712343564976128,
+        "name": "Oriental Wooden Car",
+        "price": 493.23,
+        "stock": 81,
+        "category": "Books",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-11T09:24:59.686Z",
+        "updatedAt": "2024-02-16T17:25:15.235Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4373.21,
+    "customerName": "Diane Douglas",
+    "shippingAddress": {
+      "city": "Port Helenastead",
+      "country": "Russian Federation",
+      "state": "Singapore",
+      "street": "Reichert Coves",
+      "zipCode": "16690"
+    },
+    "paymentMethod": "debit_card",
+    "status": "canceled",
+    "createdAt": "2023-03-04T01:30:18.377Z",
+    "updatedAt": "2024-02-24T21:30:55.150Z"
+  },
+  {
+    "id": "fc91a8ed-5af1-42ae-a583-673f792b887f",
+    "products": [
+      {
+        "id": 11,
+        "sku": 438339985473536,
+        "name": "Refined Plastic Sausages",
+        "price": 18.53,
+        "stock": 47,
+        "category": "Beauty",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-16T10:45:55.055Z",
+        "updatedAt": "2024-02-17T05:15:20.302Z",
+        "quantity": 1
+      },
+      {
+        "id": 48,
+        "sku": 572771530702848,
+        "name": "Intelligent Metal Computer",
+        "price": 991.56,
+        "stock": 45,
+        "category": "Baby",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 19,
+          "discountedPrice": 803.16
+        },
+        "createdAt": "2023-12-20T13:28:10.939Z",
+        "updatedAt": "2024-02-17T15:32:10.401Z",
+        "quantity": 1
+      },
+      {
+        "id": 59,
+        "sku": 4088896180715520,
+        "name": "Generic Frozen Table",
+        "price": 889.55,
+        "stock": 3,
+        "category": "Health",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-14T19:56:24.615Z",
+        "updatedAt": "2024-02-17T13:42:26.127Z",
+        "quantity": 1
+      },
+      {
+        "id": 64,
+        "sku": 5044978673778688,
+        "name": "Licensed Fresh Sausages",
+        "price": 485.25,
+        "stock": 7,
+        "category": "Baby",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 39,
+          "discountedPrice": 296
+        },
+        "createdAt": "2023-04-16T06:23:16.230Z",
+        "updatedAt": "2024-02-17T09:16:31.404Z",
+        "quantity": 1
+      },
+      {
+        "id": 71,
+        "sku": 4215371636670464,
+        "name": "Ergonomic Granite Tuna",
+        "price": 12.97,
+        "stock": 30,
+        "category": "Books",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-01-07T14:27:55.778Z",
+        "updatedAt": "2024-02-16T22:56:52.009Z",
+        "quantity": 1
+      },
+      {
+        "id": 87,
+        "sku": 37023595364352,
+        "name": "Generic Soft Chair",
+        "price": 139.78,
+        "stock": 57,
+        "category": "Books",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-31T01:53:12.888Z",
+        "updatedAt": "2024-02-17T04:12:29.576Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2537.64,
+    "customerName": "Mercedes Tromp",
+    "shippingAddress": {
+      "city": "Elizabeth",
+      "country": "Cayman Islands",
+      "state": "Bhutan",
+      "street": "Sienna Hollow",
+      "zipCode": "06325-3004"
+    },
+    "paymentMethod": "debit_card",
+    "status": "completed",
+    "createdAt": "2023-10-04T11:12:40.956Z",
+    "updatedAt": "2024-02-25T06:55:55.273Z"
+  },
+  {
+    "id": "d40590e5-2e6d-4609-ad1f-90973a6398fc",
+    "products": [
+      {
+        "id": 9,
+        "sku": 6931206417416192,
+        "name": "Gorgeous Concrete Hat",
+        "price": 809.8,
+        "stock": 42,
+        "category": "Automotive",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-11-26T19:51:54.049Z",
+        "updatedAt": "2024-02-16T17:17:32.467Z",
+        "quantity": 1
+      },
+      {
+        "id": 28,
+        "sku": 6547574504816640,
+        "name": "Incredible Rubber Tuna",
+        "price": 289.15,
+        "stock": 99,
+        "category": "Jewelery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 6,
+          "discountedPrice": 271.8
+        },
+        "createdAt": "2023-04-06T04:14:19.373Z",
+        "updatedAt": "2024-02-16T18:42:43.313Z",
+        "quantity": 1
+      },
+      {
+        "id": 49,
+        "sku": 45531095105536,
+        "name": "Handcrafted Steel Gloves",
+        "price": 437.55,
+        "stock": 11,
+        "category": "Industrial",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-01T13:23:46.101Z",
+        "updatedAt": "2024-02-16T23:53:56.893Z",
+        "quantity": 1
+      },
+      {
+        "id": 51,
+        "sku": 7299046265847808,
+        "name": "Luxurious Rubber Chicken",
+        "price": 379.63,
+        "stock": 32,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 11,
+          "discountedPrice": 337.87
+        },
+        "createdAt": "2023-03-19T04:08:34.901Z",
+        "updatedAt": "2024-02-17T15:40:50.015Z",
+        "quantity": 1
+      },
+      {
+        "id": 52,
+        "sku": 5186114675539968,
+        "name": "Recycled Bronze Towels",
+        "price": 244.16,
+        "stock": 87,
+        "category": "Toys",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-29T12:49:00.899Z",
+        "updatedAt": "2024-02-17T14:13:32.294Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      },
+      {
+        "id": 60,
+        "sku": 7723313264590848,
+        "name": "Unbranded Frozen Cheese",
+        "price": 692.26,
+        "stock": 83,
+        "category": "Clothing",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 26,
+          "discountedPrice": 512.27
+        },
+        "createdAt": "2024-02-08T14:10:59.092Z",
+        "updatedAt": "2024-02-16T17:02:59.827Z",
+        "quantity": 1
+      },
+      {
+        "id": 79,
+        "sku": 8557661236756480,
+        "name": "Practical Concrete Bike",
+        "price": 86.1,
+        "stock": 50,
+        "category": "Games",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-11-24T18:57:26.701Z",
+        "updatedAt": "2024-02-17T06:04:13.596Z",
+        "quantity": 1
+      },
+      {
+        "id": 84,
+        "sku": 8318609560436736,
+        "name": "Luxurious Frozen Gloves",
+        "price": 403.07,
+        "stock": 58,
+        "category": "Kids",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-30T06:38:07.245Z",
+        "updatedAt": "2024-02-17T08:33:16.149Z",
+        "quantity": 1
+      }
+    ],
+    "total": 3971.32,
+    "customerName": "Erik Brown II",
+    "shippingAddress": {
+      "city": "Breitenbergshire",
+      "country": "Nicaragua",
+      "state": "Algeria",
+      "street": "Church Avenue",
+      "zipCode": "37698"
+    },
+    "paymentMethod": "debit_card",
+    "status": "pending",
+    "createdAt": "2023-05-25T01:09:37.840Z",
+    "updatedAt": "2024-02-25T00:42:02.648Z"
+  },
+  {
+    "id": "03ed41a0-df15-4a28-8e34-937f58d50410",
+    "products": [
+      {
+        "id": 12,
+        "sku": 3785010683314176,
+        "name": "Handmade Fresh Mouse",
+        "price": 985.08,
+        "stock": 37,
+        "category": "Sports",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-30T02:40:20.069Z",
+        "updatedAt": "2024-02-16T17:03:44.843Z",
+        "quantity": 1
+      },
+      {
+        "id": 30,
+        "sku": 8264399653437440,
+        "name": "Incredible Plastic Computer",
+        "price": 447.24,
+        "stock": 79,
+        "category": "Garden",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-08T17:53:58.842Z",
+        "updatedAt": "2024-02-17T16:16:08.959Z",
+        "quantity": 1
+      },
+      {
+        "id": 36,
+        "sku": 620964115120128,
+        "name": "Gorgeous Bronze Tuna",
+        "price": 773.12,
+        "stock": 6,
+        "category": "Beauty",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 49,
+          "discountedPrice": 394.29
+        },
+        "createdAt": "2023-04-19T20:47:46.142Z",
+        "updatedAt": "2024-02-17T10:50:05.487Z",
+        "quantity": 1
+      },
+      {
+        "id": 49,
+        "sku": 45531095105536,
+        "name": "Handcrafted Steel Gloves",
+        "price": 437.55,
+        "stock": 11,
+        "category": "Industrial",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-01T13:23:46.101Z",
+        "updatedAt": "2024-02-16T23:53:56.893Z",
+        "quantity": 1
+      },
+      {
+        "id": 52,
+        "sku": 5186114675539968,
+        "name": "Recycled Bronze Towels",
+        "price": 244.16,
+        "stock": 87,
+        "category": "Toys",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-29T12:49:00.899Z",
+        "updatedAt": "2024-02-17T14:13:32.294Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      },
+      {
+        "id": 72,
+        "sku": 5771695801499648,
+        "name": "Practical Cotton Sausages",
+        "price": 674.84,
+        "stock": 94,
+        "category": "Home",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 42,
+          "discountedPrice": 391.41
+        },
+        "createdAt": "2023-04-06T15:23:10.172Z",
+        "updatedAt": "2024-02-16T23:49:31.780Z",
+        "quantity": 1
+      },
+      {
+        "id": 87,
+        "sku": 37023595364352,
+        "name": "Generic Soft Chair",
+        "price": 139.78,
+        "stock": 57,
+        "category": "Books",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-31T01:53:12.888Z",
+        "updatedAt": "2024-02-17T04:12:29.576Z",
+        "quantity": 1
+      },
+      {
+        "id": 93,
+        "sku": 5080244702674944,
+        "name": "Recycled Cotton Car",
+        "price": 578.44,
+        "stock": 39,
+        "category": "Shoes",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 549.52
+        },
+        "createdAt": "2023-10-09T06:20:53.834Z",
+        "updatedAt": "2024-02-16T19:48:04.962Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4909.81,
+    "customerName": "Darrin Bailey",
+    "shippingAddress": {
+      "city": "Pfannerstillborough",
+      "country": "Peru",
+      "state": "Greece",
+      "street": "Heaney Parks",
+      "zipCode": "66741-1496"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "pending",
+    "createdAt": "2023-07-01T22:29:49.786Z",
+    "updatedAt": "2024-02-25T04:04:40.662Z"
+  },
+  {
+    "id": "ca27205f-c7e1-4699-8ee9-b13a6eb7aaf8",
+    "products": [
+      {
+        "id": 17,
+        "sku": 4061532082143232,
+        "name": "Elegant Soft Ball",
+        "price": 228.23,
+        "stock": 11,
+        "category": "Computers",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T05:08:20.581Z",
+        "updatedAt": "2024-02-16T17:42:03.352Z",
+        "quantity": 1
+      },
+      {
+        "id": 56,
+        "sku": 7950540445057024,
+        "name": "Sleek Fresh Chair",
+        "price": 795.38,
+        "stock": 38,
+        "category": "Electronics",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 1,
+          "discountedPrice": 787.43
+        },
+        "createdAt": "2024-01-21T12:09:23.360Z",
+        "updatedAt": "2024-02-17T11:50:00.970Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1023.61,
+    "customerName": "Dr. Lonnie Hayes V",
+    "shippingAddress": {
+      "city": "West Quincy",
+      "country": "Holy See (Vatican City State)",
+      "state": "Tanzania",
+      "street": "Stroman Gateway",
+      "zipCode": "67085"
+    },
+    "paymentMethod": "paypal",
+    "status": "completed",
+    "createdAt": "2023-03-28T02:15:36.667Z",
+    "updatedAt": "2024-02-25T17:54:35.912Z"
+  },
+  {
+    "id": "f7bee060-0ee8-4f17-a03e-6c56bb238e41",
+    "products": [
+      {
+        "id": 27,
+        "sku": 3810672475373568,
+        "name": "Licensed Bronze Pizza",
+        "price": 16.83,
+        "stock": 13,
+        "category": "Shoes",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 32,
+          "discountedPrice": 11.44
+        },
+        "createdAt": "2023-10-30T11:33:43.981Z",
+        "updatedAt": "2024-02-17T11:14:54.369Z",
+        "quantity": 1
+      }
+    ],
+    "total": 16.83,
+    "customerName": "Lindsey Sawayn",
+    "shippingAddress": {
+      "city": "South Dustin",
+      "country": "Jersey",
+      "state": "Japan",
+      "street": "Collier Course",
+      "zipCode": "57604"
+    },
+    "paymentMethod": "credit_card",
+    "status": "pending",
+    "createdAt": "2023-06-10T23:36:18.995Z",
+    "updatedAt": "2024-02-25T08:07:23.631Z"
+  },
+  {
+    "id": "a9fe8a05-d508-4906-9411-27a962218229",
+    "products": [
+      {
+        "id": 69,
+        "sku": 8625641912008704,
+        "name": "Handcrafted Bronze Car",
+        "price": 698.74,
+        "stock": 92,
+        "category": "Home",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-11T02:45:42.192Z",
+        "updatedAt": "2024-02-16T22:17:20.408Z",
+        "quantity": 1
+      },
+      {
+        "id": 88,
+        "sku": 2134804147470336,
+        "name": "Unbranded Bronze Salad",
+        "price": 406.34,
+        "stock": 42,
+        "category": "Grocery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-12T17:38:14.049Z",
+        "updatedAt": "2024-02-17T09:51:58.938Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1105.08,
+    "customerName": "Sally Quitzon",
+    "shippingAddress": {
+      "city": "Garden Grove",
+      "country": "Zambia",
+      "state": "United Kingdom",
+      "street": "St John's Road",
+      "zipCode": "41862-8881"
+    },
+    "paymentMethod": "credit_card",
+    "status": "canceled",
+    "createdAt": "2023-03-01T08:29:26.501Z",
+    "updatedAt": "2024-02-25T02:36:51.240Z"
+  },
+  {
+    "id": "435db2ea-ead9-4f9e-93cd-8c90fb42e71c",
+    "products": [
+      {
+        "id": 30,
+        "sku": 8264399653437440,
+        "name": "Incredible Plastic Computer",
+        "price": 447.24,
+        "stock": 79,
+        "category": "Garden",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-08T17:53:58.842Z",
+        "updatedAt": "2024-02-17T16:16:08.959Z",
+        "quantity": 1
+      },
+      {
+        "id": 42,
+        "sku": 6761832006025216,
+        "name": "Handcrafted Wooden Chair",
+        "price": 778.45,
+        "stock": 20,
+        "category": "Baby",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-30T01:28:15.583Z",
+        "updatedAt": "2024-02-17T15:44:41.453Z",
+        "quantity": 1
+      },
+      {
+        "id": 53,
+        "sku": 4934828069748736,
+        "name": "Oriental Cotton Soap",
+        "price": 785.23,
+        "stock": 1,
+        "category": "Grocery",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 745.97
+        },
+        "createdAt": "2023-12-27T01:59:25.151Z",
+        "updatedAt": "2024-02-16T23:45:14.224Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      },
+      {
+        "id": 55,
+        "sku": 539399831945216,
+        "name": "Refined Wooden Chair",
+        "price": 374.04,
+        "stock": 58,
+        "category": "Baby",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 25,
+          "discountedPrice": 280.53
+        },
+        "createdAt": "2023-09-13T18:08:40.035Z",
+        "updatedAt": "2024-02-17T00:15:11.139Z",
+        "quantity": 1
+      },
+      {
+        "id": 62,
+        "sku": 6138169040830464,
+        "name": "Practical Plastic Pizza",
+        "price": 302.16,
+        "stock": 97,
+        "category": "Books",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-02T20:30:04.947Z",
+        "updatedAt": "2024-02-16T17:57:39.073Z",
+        "quantity": 1
+      },
+      {
+        "id": 63,
+        "sku": 3838920959721472,
+        "name": "Practical Granite Fish",
+        "price": 567.27,
+        "stock": 90,
+        "category": "Music",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 48,
+          "discountedPrice": 294.98
+        },
+        "createdAt": "2023-07-01T12:51:56.110Z",
+        "updatedAt": "2024-02-17T05:10:18.964Z",
+        "quantity": 1
+      },
+      {
+        "id": 88,
+        "sku": 2134804147470336,
+        "name": "Unbranded Bronze Salad",
+        "price": 406.34,
+        "stock": 42,
+        "category": "Grocery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-12T17:38:14.049Z",
+        "updatedAt": "2024-02-17T09:51:58.938Z",
+        "quantity": 1
+      },
+      {
+        "id": 97,
+        "sku": 8564967913553920,
+        "name": "Intelligent Bronze Gloves",
+        "price": 362.36,
+        "stock": 23,
+        "category": "Beauty",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-01-04T05:22:52.196Z",
+        "updatedAt": "2024-02-17T06:55:16.495Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4652.69,
+    "customerName": "Bethany Streich",
+    "shippingAddress": {
+      "city": "Runtehaven",
+      "country": "Austria",
+      "state": "Aland Islands",
+      "street": "Gleason Alley",
+      "zipCode": "87174"
+    },
+    "paymentMethod": "cash",
+    "status": "pending",
+    "createdAt": "2023-12-20T12:55:41.153Z",
+    "updatedAt": "2024-02-25T13:10:25.129Z"
+  },
+  {
+    "id": "29700a40-a09b-4401-b8e7-1a0d3d632344",
+    "products": [
+      {
+        "id": 35,
+        "sku": 6366857627959296,
+        "name": "Elegant Concrete Ball",
+        "price": 312.19,
+        "stock": 22,
+        "category": "Beauty",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 20,
+          "discountedPrice": 249.75
+        },
+        "createdAt": "2024-01-11T23:10:25.062Z",
+        "updatedAt": "2024-02-17T04:17:34.856Z",
+        "quantity": 2
+      },
+      {
+        "id": 41,
+        "sku": 5569367790059520,
+        "name": "Awesome Soft Bike",
+        "price": 182.43,
+        "stock": 96,
+        "category": "Music",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-02T01:18:19.711Z",
+        "updatedAt": "2024-02-16T17:39:25.255Z",
+        "quantity": 1
+      },
+      {
+        "id": 46,
+        "sku": 5327275639701504,
+        "name": "Sleek Frozen Salad",
+        "price": 536.43,
+        "stock": 36,
+        "category": "Grocery",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-22T17:55:27.452Z",
+        "updatedAt": "2024-02-16T21:20:50.786Z",
+        "quantity": 1
+      },
+      {
+        "id": 69,
+        "sku": 8625641912008704,
+        "name": "Handcrafted Bronze Car",
+        "price": 698.74,
+        "stock": 92,
+        "category": "Home",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-11T02:45:42.192Z",
+        "updatedAt": "2024-02-16T22:17:20.408Z",
+        "quantity": 1
+      },
+      {
+        "id": 70,
+        "sku": 3035859177701376,
+        "name": "Oriental Fresh Bike",
+        "price": 695.93,
+        "stock": 33,
+        "category": "Computers",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 48,
+          "discountedPrice": 361.88
+        },
+        "createdAt": "2024-01-17T06:32:41.609Z",
+        "updatedAt": "2024-02-17T11:19:33.410Z",
+        "quantity": 1
+      },
+      {
+        "id": 72,
+        "sku": 5771695801499648,
+        "name": "Practical Cotton Sausages",
+        "price": 674.84,
+        "stock": 94,
+        "category": "Home",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 42,
+          "discountedPrice": 391.41
+        },
+        "createdAt": "2023-04-06T15:23:10.172Z",
+        "updatedAt": "2024-02-16T23:49:31.780Z",
+        "quantity": 2
+      },
+      {
+        "id": 85,
+        "sku": 8056764580757504,
+        "name": "Fantastic Soft Soap",
+        "price": 287.41,
+        "stock": 92,
+        "category": "Shoes",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-14T16:04:53.970Z",
+        "updatedAt": "2024-02-16T18:28:20.001Z",
+        "quantity": 1
+      },
+      {
+        "id": 91,
+        "sku": 1268434623004672,
+        "name": "Bespoke Rubber Bike",
+        "price": 441.82,
+        "stock": 11,
+        "category": "Electronics",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 3,
+          "discountedPrice": 428.57
+        },
+        "createdAt": "2023-07-06T03:05:24.613Z",
+        "updatedAt": "2024-02-16T22:17:22.329Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4816.82,
+    "customerName": "Lee Leuschke",
+    "shippingAddress": {
+      "city": "Fort Newton",
+      "country": "Burundi",
+      "state": "Qatar",
+      "street": "Ash Close",
+      "zipCode": "23269-6450"
+    },
+    "paymentMethod": "crypto",
+    "status": "canceled",
+    "createdAt": "2023-03-29T11:05:59.883Z",
+    "updatedAt": "2024-02-25T00:20:47.506Z"
+  },
+  {
+    "id": "691c57c1-6a96-48af-ae7d-85f62d1aa5ad",
+    "products": [
+      {
+        "id": 7,
+        "sku": 3938651757084672,
+        "name": "Rustic Concrete Car",
+        "price": 312.68,
+        "stock": 90,
+        "category": "Tools",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 44,
+          "discountedPrice": 175.1
+        },
+        "createdAt": "2023-04-17T09:21:29.671Z",
+        "updatedAt": "2024-02-17T08:28:47.724Z",
+        "quantity": 1
+      },
+      {
+        "id": 32,
+        "sku": 7548847601483776,
+        "name": "Unbranded Bronze Bike",
+        "price": 122.42,
+        "stock": 53,
+        "category": "Games",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 12,
+          "discountedPrice": 107.73
+        },
+        "createdAt": "2023-11-13T16:21:35.188Z",
+        "updatedAt": "2024-02-16T20:32:58.341Z",
+        "quantity": 1
+      },
+      {
+        "id": 39,
+        "sku": 999166752849920,
+        "name": "Handmade Plastic Computer",
+        "price": 368.81,
+        "stock": 11,
+        "category": "Baby",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-25T19:18:35.997Z",
+        "updatedAt": "2024-02-17T13:38:27.842Z",
+        "quantity": 1
+      },
+      {
+        "id": 51,
+        "sku": 7299046265847808,
+        "name": "Luxurious Rubber Chicken",
+        "price": 379.63,
+        "stock": 32,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 11,
+          "discountedPrice": 337.87
+        },
+        "createdAt": "2023-03-19T04:08:34.901Z",
+        "updatedAt": "2024-02-17T15:40:50.015Z",
+        "quantity": 1
+      },
+      {
+        "id": 72,
+        "sku": 5771695801499648,
+        "name": "Practical Cotton Sausages",
+        "price": 674.84,
+        "stock": 94,
+        "category": "Home",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 42,
+          "discountedPrice": 391.41
+        },
+        "createdAt": "2023-04-06T15:23:10.172Z",
+        "updatedAt": "2024-02-16T23:49:31.780Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2104.96,
+    "customerName": "Beulah Miller",
+    "shippingAddress": {
+      "city": "Cheektowaga",
+      "country": "Argentina",
+      "state": "Mauritania",
+      "street": "Reuben Field",
+      "zipCode": "25803"
+    },
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "createdAt": "2023-10-02T18:40:13.029Z",
+    "updatedAt": "2024-02-25T12:44:13.168Z"
+  },
+  {
+    "id": "38fc93c8-1695-4e14-8bcf-2f810aab5aad",
+    "products": [
+      {
+        "id": 2,
+        "sku": 8359457874509824,
+        "name": "Sleek Concrete Bike",
+        "price": 638.07,
+        "stock": 35,
+        "category": "Beauty",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 34,
+          "discountedPrice": 421.13
+        },
+        "createdAt": "2023-08-27T00:31:33.628Z",
+        "updatedAt": "2024-02-16T23:09:56.405Z",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "sku": 3170795975081984,
+        "name": "Oriental Granite Computer",
+        "price": 767.48,
+        "stock": 75,
+        "category": "Home",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 7,
+          "discountedPrice": 713.76
+        },
+        "createdAt": "2023-10-25T08:21:54.925Z",
+        "updatedAt": "2024-02-16T23:41:50.587Z",
+        "quantity": 1
+      },
+      {
+        "id": 17,
+        "sku": 4061532082143232,
+        "name": "Elegant Soft Ball",
+        "price": 228.23,
+        "stock": 11,
+        "category": "Computers",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T05:08:20.581Z",
+        "updatedAt": "2024-02-16T17:42:03.352Z",
+        "quantity": 1
+      },
+      {
+        "id": 39,
+        "sku": 999166752849920,
+        "name": "Handmade Plastic Computer",
+        "price": 368.81,
+        "stock": 11,
+        "category": "Baby",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-25T19:18:35.997Z",
+        "updatedAt": "2024-02-17T13:38:27.842Z",
+        "quantity": 1
+      },
+      {
+        "id": 41,
+        "sku": 5569367790059520,
+        "name": "Awesome Soft Bike",
+        "price": 182.43,
+        "stock": 96,
+        "category": "Music",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-02T01:18:19.711Z",
+        "updatedAt": "2024-02-16T17:39:25.255Z",
+        "quantity": 1
+      },
+      {
+        "id": 76,
+        "sku": 1609729015021568,
+        "name": "Fantastic Fresh Chips",
+        "price": 495.74,
+        "stock": 21,
+        "category": "Home",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-08T11:34:42.767Z",
+        "updatedAt": "2024-02-17T09:03:26.340Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      },
+      {
+        "id": 99,
+        "sku": 670049935294464,
+        "name": "Unbranded Wooden Soap",
+        "price": 828.43,
+        "stock": 27,
+        "category": "Garden",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 36,
+          "discountedPrice": 530.2
+        },
+        "createdAt": "2024-02-12T13:53:00.062Z",
+        "updatedAt": "2024-02-17T06:42:38.994Z",
+        "quantity": 1
+      }
+    ],
+    "total": 3755.77,
+    "customerName": "Kerry Auer MD",
+    "shippingAddress": {
+      "city": "Pfannerstillside",
+      "country": "Israel",
+      "state": "Uzbekistan",
+      "street": "Claud Ports",
+      "zipCode": "17519"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "canceled",
+    "createdAt": "2023-06-19T08:30:56.208Z",
+    "updatedAt": "2024-02-25T05:03:20.754Z"
+  },
+  {
+    "id": "06dbd7be-7c55-4d52-af96-99328fa29ae9",
+    "products": [
+      {
+        "id": 31,
+        "sku": 3092503848812544,
+        "name": "Ergonomic Frozen Chicken",
+        "price": 885.13,
+        "stock": 60,
+        "category": "Jewelery",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-01T23:58:01.075Z",
+        "updatedAt": "2024-02-17T06:56:19.689Z",
+        "quantity": 1
+      },
+      {
+        "id": 56,
+        "sku": 7950540445057024,
+        "name": "Sleek Fresh Chair",
+        "price": 795.38,
+        "stock": 38,
+        "category": "Electronics",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 1,
+          "discountedPrice": 787.43
+        },
+        "createdAt": "2024-01-21T12:09:23.360Z",
+        "updatedAt": "2024-02-17T11:50:00.970Z",
+        "quantity": 1
+      },
+      {
+        "id": 86,
+        "sku": 268147529613312,
+        "name": "Refined Concrete Sausages",
+        "price": 189.33,
+        "stock": 13,
+        "category": "Home",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-06-11T23:55:35.790Z",
+        "updatedAt": "2024-02-16T17:24:21.856Z",
+        "quantity": 1
+      },
+      {
+        "id": 96,
+        "sku": 5188836908859392,
+        "name": "Handmade Steel Keyboard",
+        "price": 930.36,
+        "stock": 82,
+        "category": "Toys",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-01T17:33:02.624Z",
+        "updatedAt": "2024-02-17T01:37:45.145Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2800.2,
+    "customerName": "Stacy Veum",
+    "shippingAddress": {
+      "city": "San Luis Obispo",
+      "country": "New Caledonia",
+      "state": "Equatorial Guinea",
+      "street": "Brown Creek",
+      "zipCode": "53365"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "pending",
+    "createdAt": "2023-11-03T12:04:58.651Z",
+    "updatedAt": "2024-02-25T07:19:05.837Z"
+  },
+  {
+    "id": "08cd2f3c-af97-442d-8cc9-6290d8112f0b",
+    "products": [
+      {
+        "id": 6,
+        "sku": 3170795975081984,
+        "name": "Oriental Granite Computer",
+        "price": 767.48,
+        "stock": 75,
+        "category": "Home",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 7,
+          "discountedPrice": 713.76
+        },
+        "createdAt": "2023-10-25T08:21:54.925Z",
+        "updatedAt": "2024-02-16T23:41:50.587Z",
+        "quantity": 1
+      },
+      {
+        "id": 12,
+        "sku": 3785010683314176,
+        "name": "Handmade Fresh Mouse",
+        "price": 985.08,
+        "stock": 37,
+        "category": "Sports",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-03-30T02:40:20.069Z",
+        "updatedAt": "2024-02-16T17:03:44.843Z",
+        "quantity": 1
+      },
+      {
+        "id": 30,
+        "sku": 8264399653437440,
+        "name": "Incredible Plastic Computer",
+        "price": 447.24,
+        "stock": 79,
+        "category": "Garden",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-08T17:53:58.842Z",
+        "updatedAt": "2024-02-17T16:16:08.959Z",
+        "quantity": 1
+      },
+      {
+        "id": 31,
+        "sku": 3092503848812544,
+        "name": "Ergonomic Frozen Chicken",
+        "price": 885.13,
+        "stock": 60,
+        "category": "Jewelery",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-01T23:58:01.075Z",
+        "updatedAt": "2024-02-17T06:56:19.689Z",
+        "quantity": 1
+      },
+      {
+        "id": 34,
+        "sku": 7564065052295168,
+        "name": "Ergonomic Concrete Chair",
+        "price": 611.88,
+        "stock": 95,
+        "category": "Health",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-24T08:50:39.791Z",
+        "updatedAt": "2024-02-16T21:32:28.556Z",
+        "quantity": 1
+      },
+      {
+        "id": 52,
+        "sku": 5186114675539968,
+        "name": "Recycled Bronze Towels",
+        "price": 244.16,
+        "stock": 87,
+        "category": "Toys",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-29T12:49:00.899Z",
+        "updatedAt": "2024-02-17T14:13:32.294Z",
+        "quantity": 1
+      },
+      {
+        "id": 62,
+        "sku": 6138169040830464,
+        "name": "Practical Plastic Pizza",
+        "price": 302.16,
+        "stock": 97,
+        "category": "Books",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-02T20:30:04.947Z",
+        "updatedAt": "2024-02-16T17:57:39.073Z",
+        "quantity": 1
+      },
+      {
+        "id": 70,
+        "sku": 3035859177701376,
+        "name": "Oriental Fresh Bike",
+        "price": 695.93,
+        "stock": 33,
+        "category": "Computers",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 48,
+          "discountedPrice": 361.88
+        },
+        "createdAt": "2024-01-17T06:32:41.609Z",
+        "updatedAt": "2024-02-17T11:19:33.410Z",
+        "quantity": 1
+      },
+      {
+        "id": 88,
+        "sku": 2134804147470336,
+        "name": "Unbranded Bronze Salad",
+        "price": 406.34,
+        "stock": 42,
+        "category": "Grocery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-12T17:38:14.049Z",
+        "updatedAt": "2024-02-17T09:51:58.938Z",
+        "quantity": 1
+      },
+      {
+        "id": 93,
+        "sku": 5080244702674944,
+        "name": "Recycled Cotton Car",
+        "price": 578.44,
+        "stock": 39,
+        "category": "Shoes",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 549.52
+        },
+        "createdAt": "2023-10-09T06:20:53.834Z",
+        "updatedAt": "2024-02-16T19:48:04.962Z",
+        "quantity": 1
+      }
+    ],
+    "total": 5923.84,
+    "customerName": "Brad Block-Schultz",
+    "shippingAddress": {
+      "city": "Lynn",
+      "country": "South Georgia and the South Sandwich Islands",
+      "state": "South Georgia and the South Sandwich Islands",
+      "street": "Tony River",
+      "zipCode": "61874-0406"
+    },
+    "paymentMethod": "debit_card",
+    "status": "completed",
+    "createdAt": "2023-05-13T22:06:32.921Z",
+    "updatedAt": "2024-02-25T08:25:41.009Z"
+  },
+  {
+    "id": "7e4999a6-5d65-4af2-aa62-94901ae65f0e",
+    "products": [
+      {
+        "id": 4,
+        "sku": 1554999603625984,
+        "name": "Handcrafted Concrete Car",
+        "price": 690.71,
+        "stock": 24,
+        "category": "Shoes",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-03T19:42:31.157Z",
+        "updatedAt": "2024-02-17T00:38:16.810Z",
+        "quantity": 1
+      },
+      {
+        "id": 10,
+        "sku": 8799578992148480,
+        "name": "Sleek Frozen Car",
+        "price": 268.74,
+        "stock": 75,
+        "category": "Garden",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-06-19T04:29:42.662Z",
+        "updatedAt": "2024-02-17T06:40:53.077Z",
+        "quantity": 1
+      },
+      {
+        "id": 73,
+        "sku": 2730182423085056,
+        "name": "Luxurious Plastic Sausages",
+        "price": 721.98,
+        "stock": 1,
+        "category": "Outdoors",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-16T22:10:21.427Z",
+        "updatedAt": "2024-02-16T19:52:10.868Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1681.43,
+    "customerName": "Jessica Hegmann",
+    "shippingAddress": {
+      "city": "Corkeryport",
+      "country": "Morocco",
+      "state": "Spain",
+      "street": "Corwin Ville",
+      "zipCode": "00144-2897"
+    },
+    "paymentMethod": "crypto",
+    "status": "pending",
+    "createdAt": "2024-02-10T08:32:36.785Z",
+    "updatedAt": "2024-02-25T02:08:35.228Z"
+  },
+  {
+    "id": "f5ee164f-919e-4c15-a94c-2e5f0f8a1e08",
+    "products": [
+      {
+        "id": 5,
+        "sku": 8949690563297280,
+        "name": "Electronic Soft Car",
+        "price": 76.17,
+        "stock": 9,
+        "category": "Baby",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 43,
+          "discountedPrice": 43.42
+        },
+        "createdAt": "2023-12-21T21:34:08.022Z",
+        "updatedAt": "2024-02-17T10:36:35.887Z",
+        "quantity": 1
+      },
+      {
+        "id": 30,
+        "sku": 8264399653437440,
+        "name": "Incredible Plastic Computer",
+        "price": 447.24,
+        "stock": 79,
+        "category": "Garden",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-08T17:53:58.842Z",
+        "updatedAt": "2024-02-17T16:16:08.959Z",
+        "quantity": 1
+      },
+      {
+        "id": 31,
+        "sku": 3092503848812544,
+        "name": "Ergonomic Frozen Chicken",
+        "price": 885.13,
+        "stock": 60,
+        "category": "Jewelery",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-01T23:58:01.075Z",
+        "updatedAt": "2024-02-17T06:56:19.689Z",
+        "quantity": 2
+      },
+      {
+        "id": 47,
+        "sku": 334490639532032,
+        "name": "Practical Fresh Towels",
+        "price": 430.08,
+        "stock": 68,
+        "category": "Outdoors",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 46,
+          "discountedPrice": 232.24
+        },
+        "createdAt": "2023-05-08T03:31:00.261Z",
+        "updatedAt": "2024-02-17T11:49:59.095Z",
+        "quantity": 1
+      },
+      {
+        "id": 56,
+        "sku": 7950540445057024,
+        "name": "Sleek Fresh Chair",
+        "price": 795.38,
+        "stock": 38,
+        "category": "Electronics",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 1,
+          "discountedPrice": 787.43
+        },
+        "createdAt": "2024-01-21T12:09:23.360Z",
+        "updatedAt": "2024-02-17T11:50:00.970Z",
+        "quantity": 1
+      },
+      {
+        "id": 80,
+        "sku": 4712343564976128,
+        "name": "Oriental Wooden Car",
+        "price": 493.23,
+        "stock": 81,
+        "category": "Books",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-11T09:24:59.686Z",
+        "updatedAt": "2024-02-16T17:25:15.235Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4012.36,
+    "customerName": "Alejandro Mueller",
+    "shippingAddress": {
+      "city": "Lake Dannybury",
+      "country": "Syrian Arab Republic",
+      "state": "Hong Kong",
+      "street": "Kunde Hills",
+      "zipCode": "73261"
+    },
+    "paymentMethod": "crypto",
+    "status": "canceled",
+    "createdAt": "2023-04-28T05:59:21.203Z",
+    "updatedAt": "2024-02-25T10:24:22.671Z"
+  },
+  {
+    "id": "6a079c16-55d6-46aa-8737-7f5cb2abe381",
+    "products": [
+      {
+        "id": 3,
+        "sku": 4461739877859328,
+        "name": "Bespoke Granite Fish",
+        "price": 609.04,
+        "stock": 43,
+        "category": "Games",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-27T01:23:56.416Z",
+        "updatedAt": "2024-02-17T02:26:21.182Z",
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "sku": 8949690563297280,
+        "name": "Electronic Soft Car",
+        "price": 76.17,
+        "stock": 9,
+        "category": "Baby",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 43,
+          "discountedPrice": 43.42
+        },
+        "createdAt": "2023-12-21T21:34:08.022Z",
+        "updatedAt": "2024-02-17T10:36:35.887Z",
+        "quantity": 1
+      },
+      {
+        "id": 10,
+        "sku": 8799578992148480,
+        "name": "Sleek Frozen Car",
+        "price": 268.74,
+        "stock": 75,
+        "category": "Garden",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-06-19T04:29:42.662Z",
+        "updatedAt": "2024-02-17T06:40:53.077Z",
+        "quantity": 1
+      },
+      {
+        "id": 17,
+        "sku": 4061532082143232,
+        "name": "Elegant Soft Ball",
+        "price": 228.23,
+        "stock": 11,
+        "category": "Computers",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T05:08:20.581Z",
+        "updatedAt": "2024-02-16T17:42:03.352Z",
+        "quantity": 1
+      },
+      {
+        "id": 34,
+        "sku": 7564065052295168,
+        "name": "Ergonomic Concrete Chair",
+        "price": 611.88,
+        "stock": 95,
+        "category": "Health",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-24T08:50:39.791Z",
+        "updatedAt": "2024-02-16T21:32:28.556Z",
+        "quantity": 1
+      },
+      {
+        "id": 51,
+        "sku": 7299046265847808,
+        "name": "Luxurious Rubber Chicken",
+        "price": 379.63,
+        "stock": 32,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 11,
+          "discountedPrice": 337.87
+        },
+        "createdAt": "2023-03-19T04:08:34.901Z",
+        "updatedAt": "2024-02-17T15:40:50.015Z",
+        "quantity": 1
+      },
+      {
+        "id": 80,
+        "sku": 4712343564976128,
+        "name": "Oriental Wooden Car",
+        "price": 493.23,
+        "stock": 81,
+        "category": "Books",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-11T09:24:59.686Z",
+        "updatedAt": "2024-02-16T17:25:15.235Z",
+        "quantity": 1
+      },
+      {
+        "id": 88,
+        "sku": 2134804147470336,
+        "name": "Unbranded Bronze Salad",
+        "price": 406.34,
+        "stock": 42,
+        "category": "Grocery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-12T17:38:14.049Z",
+        "updatedAt": "2024-02-17T09:51:58.938Z",
+        "quantity": 1
+      },
+      {
+        "id": 91,
+        "sku": 1268434623004672,
+        "name": "Bespoke Rubber Bike",
+        "price": 441.82,
+        "stock": 11,
+        "category": "Electronics",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 3,
+          "discountedPrice": 428.57
+        },
+        "createdAt": "2023-07-06T03:05:24.613Z",
+        "updatedAt": "2024-02-16T22:17:22.329Z",
+        "quantity": 1
+      }
+    ],
+    "total": 3515.08,
+    "customerName": "Kerry Borer",
+    "shippingAddress": {
+      "city": "South Zella",
+      "country": "Senegal",
+      "state": "Namibia",
+      "street": "Celestino Ford",
+      "zipCode": "11015-1742"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "pending",
+    "createdAt": "2023-09-26T10:54:59.988Z",
+    "updatedAt": "2024-02-25T17:25:34.013Z"
+  },
+  {
+    "id": "1ed056be-1885-4d4a-af3f-c83164651ac1",
+    "products": [
+      {
+        "id": 7,
+        "sku": 3938651757084672,
+        "name": "Rustic Concrete Car",
+        "price": 312.68,
+        "stock": 90,
+        "category": "Tools",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 44,
+          "discountedPrice": 175.1
+        },
+        "createdAt": "2023-04-17T09:21:29.671Z",
+        "updatedAt": "2024-02-17T08:28:47.724Z",
+        "quantity": 1
+      },
+      {
+        "id": 9,
+        "sku": 6931206417416192,
+        "name": "Gorgeous Concrete Hat",
+        "price": 809.8,
+        "stock": 42,
+        "category": "Automotive",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-11-26T19:51:54.049Z",
+        "updatedAt": "2024-02-16T17:17:32.467Z",
+        "quantity": 1
+      },
+      {
+        "id": 19,
+        "sku": 8928910293073920,
+        "name": "Oriental Concrete Chicken",
+        "price": 856.5,
+        "stock": 56,
+        "category": "Automotive",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 21,
+          "discountedPrice": 676.63
+        },
+        "createdAt": "2023-05-25T23:48:37.732Z",
+        "updatedAt": "2024-02-17T04:41:13.560Z",
+        "quantity": 1
+      },
+      {
+        "id": 35,
+        "sku": 6366857627959296,
+        "name": "Elegant Concrete Ball",
+        "price": 312.19,
+        "stock": 22,
+        "category": "Beauty",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 20,
+          "discountedPrice": 249.75
+        },
+        "createdAt": "2024-01-11T23:10:25.062Z",
+        "updatedAt": "2024-02-17T04:17:34.856Z",
+        "quantity": 1
+      },
+      {
+        "id": 65,
+        "sku": 3167246692122624,
+        "name": "Awesome Soft Mouse",
+        "price": 381.58,
+        "stock": 58,
+        "category": "Books",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-01T18:44:40.699Z",
+        "updatedAt": "2024-02-17T07:22:31.382Z",
+        "quantity": 1
+      },
+      {
+        "id": 92,
+        "sku": 8209291563499520,
+        "name": "Recycled Granite Pizza",
+        "price": 941.83,
+        "stock": 89,
+        "category": "Automotive",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-26T01:11:16.803Z",
+        "updatedAt": "2024-02-16T19:16:51.855Z",
+        "quantity": 2
+      }
+    ],
+    "total": 4556.41,
+    "customerName": "Joseph Aufderhar",
+    "shippingAddress": {
+      "city": "West Avaville",
+      "country": "Papua New Guinea",
+      "state": "Nepal",
+      "street": "Fredrick Glen",
+      "zipCode": "11003-6789"
+    },
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "createdAt": "2023-04-09T02:30:49.893Z",
+    "updatedAt": "2024-02-25T10:27:23.891Z"
+  },
+  {
+    "id": "ba97a6dc-68f6-478b-b774-16d0dd9c2358",
+    "products": [
+      {
+        "id": 2,
+        "sku": 8359457874509824,
+        "name": "Sleek Concrete Bike",
+        "price": 638.07,
+        "stock": 35,
+        "category": "Beauty",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 34,
+          "discountedPrice": 421.13
+        },
+        "createdAt": "2023-08-27T00:31:33.628Z",
+        "updatedAt": "2024-02-16T23:09:56.405Z",
+        "quantity": 1
+      },
+      {
+        "id": 19,
+        "sku": 8928910293073920,
+        "name": "Oriental Concrete Chicken",
+        "price": 856.5,
+        "stock": 56,
+        "category": "Automotive",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 21,
+          "discountedPrice": 676.63
+        },
+        "createdAt": "2023-05-25T23:48:37.732Z",
+        "updatedAt": "2024-02-17T04:41:13.560Z",
+        "quantity": 1
+      },
+      {
+        "id": 45,
+        "sku": 4013762495381504,
+        "name": "Oriental Cotton Ball",
+        "price": 777.48,
+        "stock": 97,
+        "category": "Industrial",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-24T03:26:03.012Z",
+        "updatedAt": "2024-02-16T22:34:11.155Z",
+        "quantity": 1
+      },
+      {
+        "id": 70,
+        "sku": 3035859177701376,
+        "name": "Oriental Fresh Bike",
+        "price": 695.93,
+        "stock": 33,
+        "category": "Computers",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 48,
+          "discountedPrice": 361.88
+        },
+        "createdAt": "2024-01-17T06:32:41.609Z",
+        "updatedAt": "2024-02-17T11:19:33.410Z",
+        "quantity": 1
+      },
+      {
+        "id": 75,
+        "sku": 4590831166029824,
+        "name": "Oriental Granite Tuna",
+        "price": 768.09,
+        "stock": 17,
+        "category": "Beauty",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 9,
+          "discountedPrice": 698.96
+        },
+        "createdAt": "2023-05-04T21:15:56.571Z",
+        "updatedAt": "2024-02-16T17:38:01.380Z",
+        "quantity": 1
+      },
+      {
+        "id": 80,
+        "sku": 4712343564976128,
+        "name": "Oriental Wooden Car",
+        "price": 493.23,
+        "stock": 81,
+        "category": "Books",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-11T09:24:59.686Z",
+        "updatedAt": "2024-02-16T17:25:15.235Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4475.88,
+    "customerName": "Lena Hackett III",
+    "shippingAddress": {
+      "city": "South Mertieborough",
+      "country": "Mauritius",
+      "state": "Western Sahara",
+      "street": "Jayme Valleys",
+      "zipCode": "04664-4171"
+    },
+    "paymentMethod": "bank_transfer",
+    "status": "completed",
+    "createdAt": "2023-10-03T14:12:57.055Z",
+    "updatedAt": "2024-02-25T18:56:26.339Z"
+  },
+  {
+    "id": "3bff3384-b004-4cf4-a908-0f875346c25e",
+    "products": [
+      {
+        "id": 35,
+        "sku": 6366857627959296,
+        "name": "Elegant Concrete Ball",
+        "price": 312.19,
+        "stock": 22,
+        "category": "Beauty",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 20,
+          "discountedPrice": 249.75
+        },
+        "createdAt": "2024-01-11T23:10:25.062Z",
+        "updatedAt": "2024-02-17T04:17:34.856Z",
+        "quantity": 1
+      },
+      {
+        "id": 46,
+        "sku": 5327275639701504,
+        "name": "Sleek Frozen Salad",
+        "price": 536.43,
+        "stock": 36,
+        "category": "Grocery",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-22T17:55:27.452Z",
+        "updatedAt": "2024-02-16T21:20:50.786Z",
+        "quantity": 1
+      },
+      {
+        "id": 66,
+        "sku": 3485704713666560,
+        "name": "Unbranded Fresh Mouse",
+        "price": 92.53,
+        "stock": 90,
+        "category": "Industrial",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-11-24T06:58:02.479Z",
+        "updatedAt": "2024-02-17T11:37:24.193Z",
+        "quantity": 1
+      },
+      {
+        "id": 68,
+        "sku": 1465523613204480,
+        "name": "Gorgeous Fresh Car",
+        "price": 50.97,
+        "stock": 3,
+        "category": "Sports",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 13,
+          "discountedPrice": 44.34
+        },
+        "createdAt": "2024-02-03T23:18:37.382Z",
+        "updatedAt": "2024-02-17T11:07:11.520Z",
+        "quantity": 1
+      },
+      {
+        "id": 69,
+        "sku": 8625641912008704,
+        "name": "Handcrafted Bronze Car",
+        "price": 698.74,
+        "stock": 92,
+        "category": "Home",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-11T02:45:42.192Z",
+        "updatedAt": "2024-02-16T22:17:20.408Z",
+        "quantity": 1
+      },
+      {
+        "id": 99,
+        "sku": 670049935294464,
+        "name": "Unbranded Wooden Soap",
+        "price": 828.43,
+        "stock": 27,
+        "category": "Garden",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 36,
+          "discountedPrice": 530.2
+        },
+        "createdAt": "2024-02-12T13:53:00.062Z",
+        "updatedAt": "2024-02-17T06:42:38.994Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2519.29,
+    "customerName": "Jennie Kuphal",
+    "shippingAddress": {
+      "city": "Olathe",
+      "country": "Liechtenstein",
+      "state": "Uzbekistan",
+      "street": "Clementine Ville",
+      "zipCode": "25580-3694"
+    },
+    "paymentMethod": "credit_card",
+    "status": "completed",
+    "createdAt": "2024-01-06T17:51:13.722Z",
+    "updatedAt": "2024-02-25T05:21:44.965Z"
+  },
+  {
+    "id": "240c96d4-ebc2-4291-a23d-0747c3657aa0",
+    "products": [
+      {
+        "id": 7,
+        "sku": 3938651757084672,
+        "name": "Rustic Concrete Car",
+        "price": 312.68,
+        "stock": 90,
+        "category": "Tools",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 44,
+          "discountedPrice": 175.1
+        },
+        "createdAt": "2023-04-17T09:21:29.671Z",
+        "updatedAt": "2024-02-17T08:28:47.724Z",
+        "quantity": 1
+      },
+      {
+        "id": 32,
+        "sku": 7548847601483776,
+        "name": "Unbranded Bronze Bike",
+        "price": 122.42,
+        "stock": 53,
+        "category": "Games",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 12,
+          "discountedPrice": 107.73
+        },
+        "createdAt": "2023-11-13T16:21:35.188Z",
+        "updatedAt": "2024-02-16T20:32:58.341Z",
+        "quantity": 1
+      },
+      {
+        "id": 51,
+        "sku": 7299046265847808,
+        "name": "Luxurious Rubber Chicken",
+        "price": 379.63,
+        "stock": 32,
+        "category": "Music",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 11,
+          "discountedPrice": 337.87
+        },
+        "createdAt": "2023-03-19T04:08:34.901Z",
+        "updatedAt": "2024-02-17T15:40:50.015Z",
+        "quantity": 1
+      },
+      {
+        "id": 71,
+        "sku": 4215371636670464,
+        "name": "Ergonomic Granite Tuna",
+        "price": 12.97,
+        "stock": 30,
+        "category": "Books",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-01-07T14:27:55.778Z",
+        "updatedAt": "2024-02-16T22:56:52.009Z",
+        "quantity": 1
+      },
+      {
+        "id": 73,
+        "sku": 2730182423085056,
+        "name": "Luxurious Plastic Sausages",
+        "price": 721.98,
+        "stock": 1,
+        "category": "Outdoors",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-16T22:10:21.427Z",
+        "updatedAt": "2024-02-16T19:52:10.868Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      },
+      {
+        "id": 89,
+        "sku": 5589735407878144,
+        "name": "Licensed Granite Sausages",
+        "price": 385.31,
+        "stock": 73,
+        "category": "Kids",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-27T09:19:23.467Z",
+        "updatedAt": "2024-02-16T23:55:05.261Z",
+        "quantity": 1
+      },
+      {
+        "id": 93,
+        "sku": 5080244702674944,
+        "name": "Recycled Cotton Car",
+        "price": 578.44,
+        "stock": 39,
+        "category": "Shoes",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 549.52
+        },
+        "createdAt": "2023-10-09T06:20:53.834Z",
+        "updatedAt": "2024-02-16T19:48:04.962Z",
+        "quantity": 1
+      },
+      {
+        "id": 94,
+        "sku": 6488564592279552,
+        "name": "Sleek Granite Shirt",
+        "price": 71.74,
+        "stock": 34,
+        "category": "Garden",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 35,
+          "discountedPrice": 46.63
+        },
+        "createdAt": "2023-04-25T22:29:18.303Z",
+        "updatedAt": "2024-02-16T22:17:57.004Z",
+        "quantity": 1
+      },
+      {
+        "id": 95,
+        "sku": 6302641283923968,
+        "name": "Handcrafted Frozen Shoes",
+        "price": 415.29,
+        "stock": 74,
+        "category": "Home",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 11,
+          "discountedPrice": 369.61
+        },
+        "createdAt": "2023-02-26T12:20:34.069Z",
+        "updatedAt": "2024-02-17T11:20:15.162Z",
+        "quantity": 1
+      }
+    ],
+    "total": 3247.04,
+    "customerName": "Mamie Wintheiser",
+    "shippingAddress": {
+      "city": "Hyattbury",
+      "country": "Kuwait",
+      "state": "France",
+      "street": "Muller Trace",
+      "zipCode": "33183"
+    },
+    "paymentMethod": "crypto",
+    "status": "pending",
+    "createdAt": "2023-04-04T16:42:35.565Z",
+    "updatedAt": "2024-02-25T20:30:19.545Z"
+  },
+  {
+    "id": "56684483-1d07-4ca4-9b23-7dbeac7f9fc3",
+    "products": [
+      {
+        "id": 7,
+        "sku": 3938651757084672,
+        "name": "Rustic Concrete Car",
+        "price": 312.68,
+        "stock": 90,
+        "category": "Tools",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": true,
+          "discount": 44,
+          "discountedPrice": 175.1
+        },
+        "createdAt": "2023-04-17T09:21:29.671Z",
+        "updatedAt": "2024-02-17T08:28:47.724Z",
+        "quantity": 1
+      },
+      {
+        "id": 11,
+        "sku": 438339985473536,
+        "name": "Refined Plastic Sausages",
+        "price": 18.53,
+        "stock": 47,
+        "category": "Beauty",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-16T10:45:55.055Z",
+        "updatedAt": "2024-02-17T05:15:20.302Z",
+        "quantity": 1
+      },
+      {
+        "id": 14,
+        "sku": 1794435142647808,
+        "name": "Rustic Plastic Chicken",
+        "price": 180.03,
+        "stock": 47,
+        "category": "Garden",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-09T17:18:05.135Z",
+        "updatedAt": "2024-02-17T08:43:29.950Z",
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "sku": 3284459356946432,
+        "name": "Rustic Metal Ball",
+        "price": 164.79,
+        "stock": 42,
+        "category": "Beauty",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 156.55
+        },
+        "createdAt": "2024-02-05T19:43:40.152Z",
+        "updatedAt": "2024-02-17T06:40:59.454Z",
+        "quantity": 1
+      },
+      {
+        "id": 17,
+        "sku": 4061532082143232,
+        "name": "Elegant Soft Ball",
+        "price": 228.23,
+        "stock": 11,
+        "category": "Computers",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T05:08:20.581Z",
+        "updatedAt": "2024-02-16T17:42:03.352Z",
+        "quantity": 1
+      },
+      {
+        "id": 33,
+        "sku": 2806246923042816,
+        "name": "Gorgeous Metal Ball",
+        "price": 275.76,
+        "stock": 3,
+        "category": "Health",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 15,
+          "discountedPrice": 234.4
+        },
+        "createdAt": "2023-10-28T20:59:09.516Z",
+        "updatedAt": "2024-02-17T07:17:23.206Z",
+        "quantity": 1
+      },
+      {
+        "id": 81,
+        "sku": 7759701601157120,
+        "name": "Intelligent Bronze Chair",
+        "price": 580.57,
+        "stock": 92,
+        "category": "Automotive",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-28T14:00:48.824Z",
+        "updatedAt": "2024-02-17T05:21:13.755Z",
+        "quantity": 1
+      },
+      {
+        "id": 90,
+        "sku": 5881241767247872,
+        "name": "Unbranded Cotton Hat",
+        "price": 574.15,
+        "stock": 92,
+        "category": "Baby",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-29T13:41:23.174Z",
+        "updatedAt": "2024-02-16T19:50:15.569Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2334.74,
+    "customerName": "Bertha Mraz",
+    "shippingAddress": {
+      "city": "Port Arjunstad",
+      "country": "Uruguay",
+      "state": "Indonesia",
+      "street": "Heather Close",
+      "zipCode": "16139"
+    },
+    "paymentMethod": "paypal",
+    "status": "canceled",
+    "createdAt": "2023-07-03T06:16:25.944Z",
+    "updatedAt": "2024-02-25T05:42:21.749Z"
+  },
+  {
+    "id": "71497691-6af5-4b6d-b914-bdbca34587f9",
+    "products": [
+      {
+        "id": 4,
+        "sku": 1554999603625984,
+        "name": "Handcrafted Concrete Car",
+        "price": 690.71,
+        "stock": 24,
+        "category": "Shoes",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-03T19:42:31.157Z",
+        "updatedAt": "2024-02-17T00:38:16.810Z",
+        "quantity": 1
+      },
+      {
+        "id": 15,
+        "sku": 7117763271196672,
+        "name": "Licensed Bronze Sausages",
+        "price": 100.94,
+        "stock": 9,
+        "category": "Electronics",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 28,
+          "discountedPrice": 72.68
+        },
+        "createdAt": "2023-05-03T08:00:45.002Z",
+        "updatedAt": "2024-02-17T15:56:32.296Z",
+        "quantity": 1
+      },
+      {
+        "id": 62,
+        "sku": 6138169040830464,
+        "name": "Practical Plastic Pizza",
+        "price": 302.16,
+        "stock": 97,
+        "category": "Books",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-02T20:30:04.947Z",
+        "updatedAt": "2024-02-16T17:57:39.073Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1093.81,
+    "customerName": "Ann Braun",
+    "shippingAddress": {
+      "city": "Timothyton",
+      "country": "Algeria",
+      "state": "Lithuania",
+      "street": "The Glebe",
+      "zipCode": "08586"
+    },
+    "paymentMethod": "paypal",
+    "status": "completed",
+    "createdAt": "2023-06-07T22:38:50.484Z",
+    "updatedAt": "2024-02-25T13:46:34.921Z"
+  },
+  {
+    "id": "a06dba52-d480-4a9e-8756-32c1a9893509",
+    "products": [
+      {
+        "id": 6,
+        "sku": 3170795975081984,
+        "name": "Oriental Granite Computer",
+        "price": 767.48,
+        "stock": 75,
+        "category": "Home",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 7,
+          "discountedPrice": 713.76
+        },
+        "createdAt": "2023-10-25T08:21:54.925Z",
+        "updatedAt": "2024-02-16T23:41:50.587Z",
+        "quantity": 1
+      },
+      {
+        "id": 31,
+        "sku": 3092503848812544,
+        "name": "Ergonomic Frozen Chicken",
+        "price": 885.13,
+        "stock": 60,
+        "category": "Jewelery",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-01T23:58:01.075Z",
+        "updatedAt": "2024-02-17T06:56:19.689Z",
+        "quantity": 1
+      },
+      {
+        "id": 36,
+        "sku": 620964115120128,
+        "name": "Gorgeous Bronze Tuna",
+        "price": 773.12,
+        "stock": 6,
+        "category": "Beauty",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 49,
+          "discountedPrice": 394.29
+        },
+        "createdAt": "2023-04-19T20:47:46.142Z",
+        "updatedAt": "2024-02-17T10:50:05.487Z",
+        "quantity": 1
+      },
+      {
+        "id": 43,
+        "sku": 7398764023119872,
+        "name": "Rustic Cotton Car",
+        "price": 616.91,
+        "stock": 5,
+        "category": "Industrial",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-22T22:12:58.592Z",
+        "updatedAt": "2024-02-16T21:46:56.226Z",
+        "quantity": 1
+      },
+      {
+        "id": 46,
+        "sku": 5327275639701504,
+        "name": "Sleek Frozen Salad",
+        "price": 536.43,
+        "stock": 36,
+        "category": "Grocery",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-22T17:55:27.452Z",
+        "updatedAt": "2024-02-16T21:20:50.786Z",
+        "quantity": 1
+      },
+      {
+        "id": 61,
+        "sku": 1002766052884480,
+        "name": "Gorgeous Cotton Soap",
+        "price": 494.99,
+        "stock": 2,
+        "category": "Outdoors",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 48,
+          "discountedPrice": 257.39
+        },
+        "createdAt": "2023-03-26T23:36:46.089Z",
+        "updatedAt": "2024-02-16T23:10:58.078Z",
+        "quantity": 1
+      },
+      {
+        "id": 74,
+        "sku": 903532181979136,
+        "name": "Sleek Metal Gloves",
+        "price": 204.11,
+        "stock": 84,
+        "category": "Baby",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T22:16:52.067Z",
+        "updatedAt": "2024-02-17T08:54:42.326Z",
+        "quantity": 1
+      },
+      {
+        "id": 88,
+        "sku": 2134804147470336,
+        "name": "Unbranded Bronze Salad",
+        "price": 406.34,
+        "stock": 42,
+        "category": "Grocery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-12T17:38:14.049Z",
+        "updatedAt": "2024-02-17T09:51:58.938Z",
+        "quantity": 1
+      },
+      {
+        "id": 92,
+        "sku": 8209291563499520,
+        "name": "Recycled Granite Pizza",
+        "price": 941.83,
+        "stock": 89,
+        "category": "Automotive",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-26T01:11:16.803Z",
+        "updatedAt": "2024-02-16T19:16:51.855Z",
+        "quantity": 1
+      }
+    ],
+    "total": 5626.34,
+    "customerName": "Zachary Bauch",
+    "shippingAddress": {
+      "city": "San Mateo",
+      "country": "Chile",
+      "state": "Colombia",
+      "street": "Vicarage Close",
+      "zipCode": "58702"
+    },
+    "paymentMethod": "credit_card",
+    "status": "pending",
+    "createdAt": "2023-05-06T14:30:01.650Z",
+    "updatedAt": "2024-02-25T17:42:48.631Z"
+  },
+  {
+    "id": "1834964b-d085-41bb-b275-acc6745c62a1",
+    "products": [
+      {
+        "id": 6,
+        "sku": 3170795975081984,
+        "name": "Oriental Granite Computer",
+        "price": 767.48,
+        "stock": 75,
+        "category": "Home",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 7,
+          "discountedPrice": 713.76
+        },
+        "createdAt": "2023-10-25T08:21:54.925Z",
+        "updatedAt": "2024-02-16T23:41:50.587Z",
+        "quantity": 1
+      },
+      {
+        "id": 16,
+        "sku": 3284459356946432,
+        "name": "Rustic Metal Ball",
+        "price": 164.79,
+        "stock": 42,
+        "category": "Beauty",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 5,
+          "discountedPrice": 156.55
+        },
+        "createdAt": "2024-02-05T19:43:40.152Z",
+        "updatedAt": "2024-02-17T06:40:59.454Z",
+        "quantity": 1
+      },
+      {
+        "id": 17,
+        "sku": 4061532082143232,
+        "name": "Elegant Soft Ball",
+        "price": 228.23,
+        "stock": 11,
+        "category": "Computers",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-05T05:08:20.581Z",
+        "updatedAt": "2024-02-16T17:42:03.352Z",
+        "quantity": 1
+      },
+      {
+        "id": 59,
+        "sku": 4088896180715520,
+        "name": "Generic Frozen Table",
+        "price": 889.55,
+        "stock": 3,
+        "category": "Health",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-14T19:56:24.615Z",
+        "updatedAt": "2024-02-17T13:42:26.127Z",
+        "quantity": 1
+      },
+      {
+        "id": 68,
+        "sku": 1465523613204480,
+        "name": "Gorgeous Fresh Car",
+        "price": 50.97,
+        "stock": 3,
+        "category": "Sports",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 13,
+          "discountedPrice": 44.34
+        },
+        "createdAt": "2024-02-03T23:18:37.382Z",
+        "updatedAt": "2024-02-17T11:07:11.520Z",
+        "quantity": 1
+      },
+      {
+        "id": 73,
+        "sku": 2730182423085056,
+        "name": "Luxurious Plastic Sausages",
+        "price": 721.98,
+        "stock": 1,
+        "category": "Outdoors",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-16T22:10:21.427Z",
+        "updatedAt": "2024-02-16T19:52:10.868Z",
+        "quantity": 1
+      },
+      {
+        "id": 94,
+        "sku": 6488564592279552,
+        "name": "Sleek Granite Shirt",
+        "price": 71.74,
+        "stock": 34,
+        "category": "Garden",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 35,
+          "discountedPrice": 46.63
+        },
+        "createdAt": "2023-04-25T22:29:18.303Z",
+        "updatedAt": "2024-02-16T22:17:57.004Z",
+        "quantity": 1
+      }
+    ],
+    "total": 2894.74,
+    "customerName": "Sheila Yost",
+    "shippingAddress": {
+      "city": "Georgetown",
+      "country": "Botswana",
+      "state": "Mauritania",
+      "street": "Brakus Road",
+      "zipCode": "72211-3575"
+    },
+    "paymentMethod": "credit_card",
+    "status": "canceled",
+    "createdAt": "2023-05-12T01:07:48.153Z",
+    "updatedAt": "2024-02-25T08:53:28.784Z"
+  },
+  {
+    "id": "3d51935c-7b51-42a6-bb4c-995ab223f563",
+    "products": [
+      {
+        "id": 44,
+        "sku": 6962242222292992,
+        "name": "Handmade Soft Gloves",
+        "price": 14.11,
+        "stock": 24,
+        "category": "Sports",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-30T10:33:50.076Z",
+        "updatedAt": "2024-02-17T11:42:00.614Z",
+        "quantity": 1
+      },
+      {
+        "id": 52,
+        "sku": 5186114675539968,
+        "name": "Recycled Bronze Towels",
+        "price": 244.16,
+        "stock": 87,
+        "category": "Toys",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-29T12:49:00.899Z",
+        "updatedAt": "2024-02-17T14:13:32.294Z",
+        "quantity": 2
+      },
+      {
+        "id": 55,
+        "sku": 539399831945216,
+        "name": "Refined Wooden Chair",
+        "price": 374.04,
+        "stock": 58,
+        "category": "Baby",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": true,
+          "discount": 25,
+          "discountedPrice": 280.53
+        },
+        "createdAt": "2023-09-13T18:08:40.035Z",
+        "updatedAt": "2024-02-17T00:15:11.139Z",
+        "quantity": 1
+      },
+      {
+        "id": 99,
+        "sku": 670049935294464,
+        "name": "Unbranded Wooden Soap",
+        "price": 828.43,
+        "stock": 27,
+        "category": "Garden",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 36,
+          "discountedPrice": 530.2
+        },
+        "createdAt": "2024-02-12T13:53:00.062Z",
+        "updatedAt": "2024-02-17T06:42:38.994Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1704.9,
+    "customerName": "Willie Paucek",
+    "shippingAddress": {
+      "city": "West Wilhelmburgh",
+      "country": "Faroe Islands",
+      "state": "Cuba",
+      "street": "Manor Gardens",
+      "zipCode": "27921-0966"
+    },
+    "paymentMethod": "paypal",
+    "status": "pending",
+    "createdAt": "2023-05-06T01:58:33.720Z",
+    "updatedAt": "2024-02-25T19:40:26.987Z"
+  },
+  {
+    "id": "a319cd0f-5c57-4b3e-91f7-42741fcb6af4",
+    "products": [
+      {
+        "id": 20,
+        "sku": 6456325078777856,
+        "name": "Tasty Fresh Computer",
+        "price": 883.93,
+        "stock": 81,
+        "category": "Clothing",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-06-13T21:00:44.006Z",
+        "updatedAt": "2024-02-17T06:19:32.935Z",
+        "quantity": 1
+      },
+      {
+        "id": 25,
+        "sku": 1039640299569152,
+        "name": "Luxurious Frozen Hat",
+        "price": 345.87,
+        "stock": 52,
+        "category": "Automotive",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-24T15:26:41.598Z",
+        "updatedAt": "2024-02-16T18:48:44.254Z",
+        "quantity": 1
+      },
+      {
+        "id": 37,
+        "sku": 4137807022915584,
+        "name": "Licensed Soft Bike",
+        "price": 555.58,
+        "stock": 42,
+        "category": "Books",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 7,
+          "discountedPrice": 516.69
+        },
+        "createdAt": "2024-02-07T02:24:30.029Z",
+        "updatedAt": "2024-02-17T16:11:42.634Z",
+        "quantity": 1
+      },
+      {
+        "id": 49,
+        "sku": 45531095105536,
+        "name": "Handcrafted Steel Gloves",
+        "price": 437.55,
+        "stock": 11,
+        "category": "Industrial",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-01T13:23:46.101Z",
+        "updatedAt": "2024-02-16T23:53:56.893Z",
+        "quantity": 1
+      },
+      {
+        "id": 57,
+        "sku": 1872460198707200,
+        "name": "Generic Plastic Soap",
+        "price": 246.78,
+        "stock": 42,
+        "category": "Health",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-11-29T01:25:17.305Z",
+        "updatedAt": "2024-02-17T08:58:02.489Z",
+        "quantity": 1
+      },
+      {
+        "id": 67,
+        "sku": 7056709600149504,
+        "name": "Practical Steel Sausages",
+        "price": 708.97,
+        "stock": 77,
+        "category": "Clothing",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-06-28T01:49:21.191Z",
+        "updatedAt": "2024-02-17T08:59:55.607Z",
+        "quantity": 1
+      },
+      {
+        "id": 69,
+        "sku": 8625641912008704,
+        "name": "Handcrafted Bronze Car",
+        "price": 698.74,
+        "stock": 92,
+        "category": "Home",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-11T02:45:42.192Z",
+        "updatedAt": "2024-02-16T22:17:20.408Z",
+        "quantity": 1
+      }
+    ],
+    "total": 3877.42,
+    "customerName": "Cindy Baumbach",
+    "shippingAddress": {
+      "city": "Dibbertshire",
+      "country": "Nauru",
+      "state": "Israel",
+      "street": "W Monroe Street",
+      "zipCode": "87972"
+    },
+    "paymentMethod": "crypto",
+    "status": "pending",
+    "createdAt": "2023-03-23T23:17:28.340Z",
+    "updatedAt": "2024-02-25T01:22:18.714Z"
+  },
+  {
+    "id": "7cd08eab-21df-49cc-af66-33baba0e1baf",
+    "products": [
+      {
+        "id": 60,
+        "sku": 7723313264590848,
+        "name": "Unbranded Frozen Cheese",
+        "price": 692.26,
+        "stock": 83,
+        "category": "Clothing",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 26,
+          "discountedPrice": 512.27
+        },
+        "createdAt": "2024-02-08T14:10:59.092Z",
+        "updatedAt": "2024-02-16T17:02:59.827Z",
+        "quantity": 1
+      },
+      {
+        "id": 92,
+        "sku": 8209291563499520,
+        "name": "Recycled Granite Pizza",
+        "price": 941.83,
+        "stock": 89,
+        "category": "Automotive",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-12-26T01:11:16.803Z",
+        "updatedAt": "2024-02-16T19:16:51.855Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1634.09,
+    "customerName": "Nathan Goyette",
+    "shippingAddress": {
+      "city": "East Josiah",
+      "country": "Papua New Guinea",
+      "state": "El Salvador",
+      "street": "Konopelski Island",
+      "zipCode": "23177"
+    },
+    "paymentMethod": "crypto",
+    "status": "completed",
+    "createdAt": "2023-05-21T11:28:17.764Z",
+    "updatedAt": "2024-02-25T15:00:00.394Z"
+  },
+  {
+    "id": "c1c8cb31-81f3-48c2-80b1-4d344512e9f2",
+    "products": [
+      {
+        "id": 14,
+        "sku": 1794435142647808,
+        "name": "Rustic Plastic Chicken",
+        "price": 180.03,
+        "stock": 47,
+        "category": "Garden",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-09T17:18:05.135Z",
+        "updatedAt": "2024-02-17T08:43:29.950Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      },
+      {
+        "id": 80,
+        "sku": 4712343564976128,
+        "name": "Oriental Wooden Car",
+        "price": 493.23,
+        "stock": 81,
+        "category": "Books",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-11T09:24:59.686Z",
+        "updatedAt": "2024-02-16T17:25:15.235Z",
+        "quantity": 2
+      },
+      {
+        "id": 87,
+        "sku": 37023595364352,
+        "name": "Generic Soft Chair",
+        "price": 139.78,
+        "stock": 57,
+        "category": "Books",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-31T01:53:12.888Z",
+        "updatedAt": "2024-02-17T04:12:29.576Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1935.87,
+    "customerName": "Levi Boehm",
+    "shippingAddress": {
+      "city": "McKenziecester",
+      "country": "Somalia",
+      "state": "United States Minor Outlying Islands",
+      "street": "Lang Fields",
+      "zipCode": "44723"
+    },
+    "paymentMethod": "paypal",
+    "status": "pending",
+    "createdAt": "2023-03-25T12:29:18.159Z",
+    "updatedAt": "2024-02-25T07:05:16.919Z"
+  },
+  {
+    "id": "78a5bed2-f860-4c2b-9853-0938a042f4f0",
+    "products": [
+      {
+        "id": 2,
+        "sku": 8359457874509824,
+        "name": "Sleek Concrete Bike",
+        "price": 638.07,
+        "stock": 35,
+        "category": "Beauty",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": true,
+          "discount": 34,
+          "discountedPrice": 421.13
+        },
+        "createdAt": "2023-08-27T00:31:33.628Z",
+        "updatedAt": "2024-02-16T23:09:56.405Z",
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "sku": 4461739877859328,
+        "name": "Bespoke Granite Fish",
+        "price": 609.04,
+        "stock": 43,
+        "category": "Games",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-27T01:23:56.416Z",
+        "updatedAt": "2024-02-17T02:26:21.182Z",
+        "quantity": 1
+      },
+      {
+        "id": 36,
+        "sku": 620964115120128,
+        "name": "Gorgeous Bronze Tuna",
+        "price": 773.12,
+        "stock": 6,
+        "category": "Beauty",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 49,
+          "discountedPrice": 394.29
+        },
+        "createdAt": "2023-04-19T20:47:46.142Z",
+        "updatedAt": "2024-02-17T10:50:05.487Z",
+        "quantity": 1
+      },
+      {
+        "id": 52,
+        "sku": 5186114675539968,
+        "name": "Recycled Bronze Towels",
+        "price": 244.16,
+        "stock": 87,
+        "category": "Toys",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-29T12:49:00.899Z",
+        "updatedAt": "2024-02-17T14:13:32.294Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      },
+      {
+        "id": 56,
+        "sku": 7950540445057024,
+        "name": "Sleek Fresh Chair",
+        "price": 795.38,
+        "stock": 38,
+        "category": "Electronics",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 1,
+          "discountedPrice": 787.43
+        },
+        "createdAt": "2024-01-21T12:09:23.360Z",
+        "updatedAt": "2024-02-17T11:50:00.970Z",
+        "quantity": 1
+      },
+      {
+        "id": 73,
+        "sku": 2730182423085056,
+        "name": "Luxurious Plastic Sausages",
+        "price": 721.98,
+        "stock": 1,
+        "category": "Outdoors",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-16T22:10:21.427Z",
+        "updatedAt": "2024-02-16T19:52:10.868Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4411.35,
+    "customerName": "Lora Rohan",
+    "shippingAddress": {
+      "city": "Maxwellworth",
+      "country": "Zimbabwe",
+      "state": "Brazil",
+      "street": "The Woodlands",
+      "zipCode": "96846-7398"
+    },
+    "paymentMethod": "crypto",
+    "status": "canceled",
+    "createdAt": "2023-07-10T05:37:11.379Z",
+    "updatedAt": "2024-02-25T12:53:15.148Z"
+  },
+  {
+    "id": "31de3e03-0ab3-4b43-b16f-40f9c43354de",
+    "products": [
+      {
+        "id": 5,
+        "sku": 8949690563297280,
+        "name": "Electronic Soft Car",
+        "price": 76.17,
+        "stock": 9,
+        "category": "Baby",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 43,
+          "discountedPrice": 43.42
+        },
+        "createdAt": "2023-12-21T21:34:08.022Z",
+        "updatedAt": "2024-02-17T10:36:35.887Z",
+        "quantity": 1
+      },
+      {
+        "id": 27,
+        "sku": 3810672475373568,
+        "name": "Licensed Bronze Pizza",
+        "price": 16.83,
+        "stock": 13,
+        "category": "Shoes",
+        "provider": "Thompson - Schoen",
+        "offer": {
+          "isOffer": true,
+          "discount": 32,
+          "discountedPrice": 11.44
+        },
+        "createdAt": "2023-10-30T11:33:43.981Z",
+        "updatedAt": "2024-02-17T11:14:54.369Z",
+        "quantity": 1
+      },
+      {
+        "id": 30,
+        "sku": 8264399653437440,
+        "name": "Incredible Plastic Computer",
+        "price": 447.24,
+        "stock": 79,
+        "category": "Garden",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-08T17:53:58.842Z",
+        "updatedAt": "2024-02-17T16:16:08.959Z",
+        "quantity": 1
+      },
+      {
+        "id": 33,
+        "sku": 2806246923042816,
+        "name": "Gorgeous Metal Ball",
+        "price": 275.76,
+        "stock": 3,
+        "category": "Health",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 15,
+          "discountedPrice": 234.4
+        },
+        "createdAt": "2023-10-28T20:59:09.516Z",
+        "updatedAt": "2024-02-17T07:17:23.206Z",
+        "quantity": 1
+      },
+      {
+        "id": 40,
+        "sku": 2328469587361792,
+        "name": "Unbranded Concrete Chicken",
+        "price": 990.1,
+        "stock": 24,
+        "category": "Grocery",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 31,
+          "discountedPrice": 683.17
+        },
+        "createdAt": "2024-02-14T23:20:31.733Z",
+        "updatedAt": "2024-02-17T13:23:43.964Z",
+        "quantity": 1
+      },
+      {
+        "id": 45,
+        "sku": 4013762495381504,
+        "name": "Oriental Cotton Ball",
+        "price": 777.48,
+        "stock": 97,
+        "category": "Industrial",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-24T03:26:03.012Z",
+        "updatedAt": "2024-02-16T22:34:11.155Z",
+        "quantity": 2
+      },
+      {
+        "id": 48,
+        "sku": 572771530702848,
+        "name": "Intelligent Metal Computer",
+        "price": 991.56,
+        "stock": 45,
+        "category": "Baby",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 19,
+          "discountedPrice": 803.16
+        },
+        "createdAt": "2023-12-20T13:28:10.939Z",
+        "updatedAt": "2024-02-17T15:32:10.401Z",
+        "quantity": 1
+      },
+      {
+        "id": 54,
+        "sku": 1436912761962496,
+        "name": "Ergonomic Frozen Pizza",
+        "price": 629.6,
+        "stock": 96,
+        "category": "Computers",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-10-23T20:04:07.122Z",
+        "updatedAt": "2024-02-17T14:32:43.363Z",
+        "quantity": 1
+      }
+    ],
+    "total": 4982.22,
+    "customerName": "Louis Spencer",
+    "shippingAddress": {
+      "city": "Hildaburgh",
+      "country": "Republic of Korea",
+      "state": "Norway",
+      "street": "Lamar Loop",
+      "zipCode": "86553-2054"
+    },
+    "paymentMethod": "paypal",
+    "status": "completed",
+    "createdAt": "2023-12-25T23:26:22.829Z",
+    "updatedAt": "2024-02-25T05:29:59.442Z"
+  },
+  {
+    "id": "e3d24a62-1e34-4579-ae75-92a757761d25",
+    "products": [
+      {
+        "id": 25,
+        "sku": 1039640299569152,
+        "name": "Luxurious Frozen Hat",
+        "price": 345.87,
+        "stock": 52,
+        "category": "Automotive",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-24T15:26:41.598Z",
+        "updatedAt": "2024-02-16T18:48:44.254Z",
+        "quantity": 1
+      },
+      {
+        "id": 34,
+        "sku": 7564065052295168,
+        "name": "Ergonomic Concrete Chair",
+        "price": 611.88,
+        "stock": 95,
+        "category": "Health",
+        "provider": "Bartell, Leffler and Senger",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-24T08:50:39.791Z",
+        "updatedAt": "2024-02-16T21:32:28.556Z",
+        "quantity": 1
+      },
+      {
+        "id": 42,
+        "sku": 6761832006025216,
+        "name": "Handcrafted Wooden Chair",
+        "price": 778.45,
+        "stock": 20,
+        "category": "Baby",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-30T01:28:15.583Z",
+        "updatedAt": "2024-02-17T15:44:41.453Z",
+        "quantity": 1
+      },
+      {
+        "id": 63,
+        "sku": 3838920959721472,
+        "name": "Practical Granite Fish",
+        "price": 567.27,
+        "stock": 90,
+        "category": "Music",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": true,
+          "discount": 48,
+          "discountedPrice": 294.98
+        },
+        "createdAt": "2023-07-01T12:51:56.110Z",
+        "updatedAt": "2024-02-17T05:10:18.964Z",
+        "quantity": 1
+      },
+      {
+        "id": 81,
+        "sku": 7759701601157120,
+        "name": "Intelligent Bronze Chair",
+        "price": 580.57,
+        "stock": 92,
+        "category": "Automotive",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-02-28T14:00:48.824Z",
+        "updatedAt": "2024-02-17T05:21:13.755Z",
+        "quantity": 1
+      },
+      {
+        "id": 87,
+        "sku": 37023595364352,
+        "name": "Generic Soft Chair",
+        "price": 139.78,
+        "stock": 57,
+        "category": "Books",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-07-31T01:53:12.888Z",
+        "updatedAt": "2024-02-17T04:12:29.576Z",
+        "quantity": 2
+      }
+    ],
+    "total": 3163.6,
+    "customerName": "Wilbert Murray",
+    "shippingAddress": {
+      "city": "Stammhaven",
+      "country": "Mali",
+      "state": "Australia",
+      "street": "Esperanza Unions",
+      "zipCode": "33790"
+    },
+    "paymentMethod": "crypto",
+    "status": "pending",
+    "createdAt": "2023-12-19T05:41:45.729Z",
+    "updatedAt": "2024-02-25T10:52:44.905Z"
+  },
+  {
+    "id": "e11624eb-8ba5-4c8c-9c0e-a524cd32e467",
+    "products": [
+      {
+        "id": 33,
+        "sku": 2806246923042816,
+        "name": "Gorgeous Metal Ball",
+        "price": 275.76,
+        "stock": 3,
+        "category": "Health",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 15,
+          "discountedPrice": 234.4
+        },
+        "createdAt": "2023-10-28T20:59:09.516Z",
+        "updatedAt": "2024-02-17T07:17:23.206Z",
+        "quantity": 1
+      },
+      {
+        "id": 52,
+        "sku": 5186114675539968,
+        "name": "Recycled Bronze Towels",
+        "price": 244.16,
+        "stock": 87,
+        "category": "Toys",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-29T12:49:00.899Z",
+        "updatedAt": "2024-02-17T14:13:32.294Z",
+        "quantity": 1
+      }
+    ],
+    "total": 519.92,
+    "customerName": "Frederick Fisher",
+    "shippingAddress": {
+      "city": "Considineboro",
+      "country": "Virgin Islands, U.S.",
+      "state": "Holy See (Vatican City State)",
+      "street": "Sanford Creek",
+      "zipCode": "37560-7805"
+    },
+    "paymentMethod": "cash",
+    "status": "canceled",
+    "createdAt": "2023-05-21T17:45:41.298Z",
+    "updatedAt": "2024-02-25T07:51:44.097Z"
+  },
+  {
+    "id": "933be51a-24bf-4c16-95cf-fe6676d32cc1",
+    "products": [
+      {
+        "id": 22,
+        "sku": 4761971853361152,
+        "name": "Modern Granite Car",
+        "price": 487.14,
+        "stock": 9,
+        "category": "Electronics",
+        "provider": "Rath LLC",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2024-02-06T10:18:01.410Z",
+        "updatedAt": "2024-02-17T03:42:20.783Z",
+        "quantity": 1
+      },
+      {
+        "id": 28,
+        "sku": 6547574504816640,
+        "name": "Incredible Rubber Tuna",
+        "price": 289.15,
+        "stock": 99,
+        "category": "Jewelery",
+        "provider": "Corwin Inc",
+        "offer": {
+          "isOffer": true,
+          "discount": 6,
+          "discountedPrice": 271.8
+        },
+        "createdAt": "2023-04-06T04:14:19.373Z",
+        "updatedAt": "2024-02-16T18:42:43.313Z",
+        "quantity": 2
+      }
+    ],
+    "total": 1065.44,
+    "customerName": "Mrs. Jo Ritchie-Berge",
+    "shippingAddress": {
+      "city": "South Minaborough",
+      "country": "Russian Federation",
+      "state": "Heard Island and McDonald Islands",
+      "street": "E 11th Street",
+      "zipCode": "16577-6572"
+    },
+    "paymentMethod": "debit_card",
+    "status": "pending",
+    "createdAt": "2023-03-02T03:49:42.009Z",
+    "updatedAt": "2024-02-25T19:07:53.408Z"
+  },
+  {
+    "id": "9e197721-b979-4730-b18a-b2a404c38e5d",
+    "customerName": "UPDATE CUSTOMER TEST",
+    "paymentMethod": "debit_card",
+    "products": [
+      {
+        "id": 4,
+        "sku": 1554999603625984,
+        "name": "Handcrafted Concrete Car",
+        "price": 690.71,
+        "stock": 24,
+        "category": "Shoes",
+        "provider": "Williamson and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-05-03T19:42:31.157Z",
+        "updatedAt": "2024-02-17T00:38:16.810Z",
+        "quantity": 1
+      },
+      {
+        "id": 13,
+        "sku": 371382005268480,
+        "name": "Recycled Metal Chips",
+        "price": 220.54,
+        "stock": 89,
+        "category": "Computers",
+        "provider": "Schneider, Anderson and Bergnaum",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-04-01T17:25:30.685Z",
+        "updatedAt": "2024-02-16T21:15:26.391Z",
+        "quantity": 1
+      },
+      {
+        "id": 44,
+        "sku": 6962242222292992,
+        "name": "Handmade Soft Gloves",
+        "price": 14.11,
+        "stock": 24,
+        "category": "Sports",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-09-30T10:33:50.076Z",
+        "updatedAt": "2024-02-17T11:42:00.614Z",
+        "quantity": 1
+      },
+      {
+        "id": 83,
+        "sku": 5987504066920448,
+        "name": "Practical Concrete Computer",
+        "price": 246.58,
+        "stock": 55,
+        "category": "Health",
+        "provider": "Reinger and Sons",
+        "offer": {
+          "isOffer": false,
+          "discount": 0,
+          "discountedPrice": 0
+        },
+        "createdAt": "2023-08-22T22:12:48.502Z",
+        "updatedAt": "2024-02-17T15:19:45.495Z",
+        "quantity": 1
+      }
+    ],
+    "total": 1171.94,
+    "status": "pending",
+    "shippingAddress": {
+      "city": "Fort Gerardo",
+      "country": "India",
+      "state": "Monaco",
+      "street": "Talia Expressway",
+      "zipCode": "32595"
+    },
+    "createdAt": "2023-05-04T22:07:42.766Z",
+    "updatedAt": "2024-02-25T12:12:10.288Z"
+  }
+]
